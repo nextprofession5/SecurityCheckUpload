@@ -1,0 +1,158 @@
+Fix result of Farbar Recovery Scan Tool (x64) Version: 16-06-2026
+Ran by defaultuser0 (16-06-2026 19:27:18) Run:4
+Running from C:\Users\defaultuser0\Downloads
+Loaded Profiles: defaultuser0
+Boot Mode: Normal
+==============================================
+
+fixlist content:
+*****************
+Powershell: Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
+Exportkey: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer
+Exportkey: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinDefend
+Exportkey: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\wscsvc
+Exportkey: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SecurityHealthService
+Deletevalue: "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender"|ServiceKeepAlive
+
+*****************
+
+
+========= Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage =========
+
+
+========= End of Powershell: =========
+
+================== ExportKey: ===================
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer]
+"DependOnService"="SamSS*Srv2"
+"Description"="@%systemroot%\system32\srvsvc.dll,-101"
+"DisplayName"="@%systemroot%\system32\srvsvc.dll,-100"
+"ErrorControl"="1"
+"FailureActions"="80510100000000000000000003000000140000000100000060ea000001000000c0d401000000000000000000"
+"ImagePath"="%SystemRoot%\system32\svchost.exe -k netsvcs -p"
+"ObjectName"="LocalSystem"
+"RequiredPrivileges"="SeChangeNotifyPrivilege*SeImpersonatePrivilege*SeAuditPrivilege"
+"ServiceSidType"="1"
+"Start"="2"
+"Type"="32"
+[HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\Aliases]
+[HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\AlternativePorts]
+[HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\AutotunedParameters]
+[HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\Certs]
+[HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\DefaultSecurity]
+"SrvsvcConfigInfo"="01000480a0000000ac000000000000001400000002008c00060000000000180017000f00010200000000000520000000200200000000180017000f00010200000000000520000000250200000000140017000f0001010000000000051200000000001800 (the data entry has 168 more characters)."
+"SrvsvcTransportEnum"="010004808c00000098000000000000001400000002007800050000000000180017000f00010200000000000520000000200200000000180017000f00010200000000000520000000250200000000140017000f0001010000000000051200000000001800 (the data entry has 128 more characters)."
+"SrvsvcConnection"="010004807c00000088000000000000001400000002006800040000000000180001000f00010200000000000520000000200200000000180001000f0001020000000000052000000025020000000018000100000001020000000000052000000026020000 (the data entry has 96 more characters)."
+"SrvsvcServerDiskEnum"="010004804c00000058000000000000001400000002003800020000000000180001000f00010200000000000520000000200200000000180001000f0001020000000000052000000025020000010100000000000512000000010100000000000512000000"
+"SrvsvcFile"="010004806400000070000000000000001400000002005000030000000000180011000f00010200000000000520000000200200000000180011000f00010200000000000520000000250200000000180011000f0001020000000000052000000023020000 (the data entry has 48 more characters)."
+"SrvsvcSessionInfo"="01000480a0000000ac000000000000001400000002008c00060000000000180013000f00010200000000000520000000200200000000180013000f00010200000000000520000000250200000000180013000f0001020000000000052000000023020000 (the data entry has 168 more characters)."
+"SrvsvcShareFileInfo"="01000480dc000000e800000000000000140000000200c800090000000000180013000f00010200000000000520000000200200000000180013000f0001020000000000052000000025020000000018000300020001020000000000052000000043020000 (the data entry has 288 more characters)."
+"SrvsvcSharePrintInfo"="01000480f40000000001000000000000140000000200e0000a0000000000180013000f00010200000000000520000000200200000000180013000f00010200000000000520000000250200000000180013000f0001020000000000052000000026020000 (the data entry has 336 more characters)."
+"SrvsvcShareAdminInfo"="010004808c00000098000000000000001400000002007800050000000000180013000f0001020000000000052000000020020000000018000200000001020000000000052000000025020000000018000200000001020000000000052000000043020000 (the data entry has 128 more characters)."
+"SrvsvcShareChange"="01000480a4000000b0000000000000001400000002009000060000000000180013000f00010200000000000520000000200200000000180013000f00010200000000000520000000250200000000180013000f0001020000000000052000000023020000 (the data entry has 176 more characters)."
+"SrvsvcShareConnect"="010004808c00000098000000000000001400000002007800050000000000180003000f00010200000000000520000000200200000000180003000f00010200000000000520000000250200000000180003000f0001020000000000052000000027020000 (the data entry has 128 more characters)."
+"SrvsvcShareAdminConnect"="01000480a0000000ac000000000000001400000002008c00060000000000180003000f00010200000000000520000000200200000000180003000f00010200000000000520000000250200000000180003000f0001020000000000052000000027020000 (the data entry has 168 more characters)."
+"SrvsvcStatisticsInfo"="01000480600000006c000000000000001400000002004c00030000000000180001000f00010200000000000520000000200200000000180001000f0001020000000000052000000025020000000014000100000001010000000000020000000001010000 (the data entry has 40 more characters)."
+"AnonymousDescriptorsUpgraded"="1"
+"InteractiveDescriptorsRegenerated"="5"
+"PreviousAnonymousRestriction"="0"
+"SessionSecurityDescriptorRegenerated"="2"
+[HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\Linkage]
+"Export"="\Device\LanmanServer_NetBT_Tcpip_{D1B97D4F-EE94-49D5-9368-DC2CFD3CA3B4}*\Device\LanmanServer_Tcpip_{D1B97D4F-EE94-49D5-9368-DC2CFD3CA3B4}*\Device\LanmanServer_NetBT_Tcpip6_{D1B97D4F-EE94-49D5-9368-DC2 (the data entry has 3865 more characters)."
+"Bind"="\Device\NetBT_Tcpip_{D1B97D4F-EE94-49D5-9368-DC2CFD3CA3B4}*\Device\Tcpip_{D1B97D4F-EE94-49D5-9368-DC2CFD3CA3B4}*\Device\NetBT_Tcpip6_{D1B97D4F-EE94-49D5-9368-DC2CFD3CA3B4}*\Device\Tcpip6_{D1B97D4F-EE9 (the data entry has 3098 more characters)."
+"Route"=""NetBT" "Tcpip" "{D1B97D4F-EE94-49D5-9368-DC2CFD3CA3B4}"*"Tcpip" "{D1B97D4F-EE94-49D5-9368-DC2CFD3CA3B4}"*"NetBT" "Tcpip6" "{D1B97D4F-EE94-49D5-9368-DC2CFD3CA3B4}"*"Tcpip6" "{D1B97D4F-EE94-49D5-9368-D (the data entry has 2918 more characters)."
+[HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+"EnableAuthenticateUserSharing"="0"
+"NullSessionPipes"=""
+"ServiceDll"="%SystemRoot%\system32\srvsvc.dll"
+"ServiceDllUnloadOnStop"="1"
+"CachedOpenLimit"="0"
+"EnableForcedLogoff"="1"
+"EnableSecuritySignature"="0"
+"RequireSecuritySignature"="0"
+"RestrictNullSessAccess"="1"
+"Guid"="7273b42b3c55204599322d552452e684"
+[HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters\FsctlAllowlist]
+[HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\ShareProviders]
+[HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\Shares]
+[HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\Shares\Security]
+[HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\TriggerInfo]
+[HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\TriggerInfo\0]
+"Action"="1"
+"Data0"="340042003300320034004600430038002d0031003600370030002d0030003100440033002d0031003200370038002d003500410034003700420046003600450045003100380038000000"
+"DataType0"="2"
+"GUID"="67d190bc70943941a9babe0bbbf5b74d"
+"Type"="6"
+[HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\TriggerInfo\1]
+"Action"="1"
+"Data0"="7300720076007300760063000000"
+"DataType0"="2"
+"GUID"="31d1811fac3f37459e0c7e7b0c2f4b55"
+"Type"="6"
+
+=== End of ExportKey ===
+================== ExportKey: ===================
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinDefend]
+"DependOnService"="RpcSs"
+"Description"="@C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26050.15-0\MpAsDesc.dll,-240"
+"DisplayName"="@C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26050.15-0\MpAsDesc.dll,-310"
+"ErrorControl"="1"
+"FailureActions"="805101000000000001000000030000001400000001000000e803000001000000102700000100000060ea0000"
+"ImagePath"=""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26050.15-0\MsMpEng.exe""
+"LaunchProtected"="3"
+"ObjectName"="LocalSystem"
+"RequiredPrivileges"="SeImpersonatePrivilege*SeBackupPrivilege*SeRestorePrivilege*SeDebugPrivilege*SeChangeNotifyPrivilege*SeLoadDriverPrivilege*SeSecurityPrivilege*SeShutdownPrivilege*SeIncreaseQuotaPrivilege*SeAssignPrim (the data entry has 118 more characters)."
+"ServiceSidType"="1"
+"Start"="2"
+"Type"="16"
+[HKLM\SYSTEM\CurrentControlSet\Services\WinDefend\Security]
+"Security"="010014800c010000180100001400000048000000020034000200000002801400ff010f00010100000000000100000000140018009d010200010200000000001300020000000600000200c40007000000000018009d010200010200000000000520000000 (the data entry has 384 more characters)."
+
+=== End of ExportKey ===
+================== ExportKey: ===================
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\wscsvc]
+"DelayedAutoStart"="1"
+"DependOnService"="RpcSs"
+"Description"="@%SystemRoot%\System32\wscsvc.dll,-201"
+"DisplayName"="@%SystemRoot%\System32\wscsvc.dll,-200"
+"ErrorControl"="1"
+"FailureActions"="805101000000000000000000030000001400000001000000c0d4010001000000e09304000000000000000000"
+"ImagePath"="%SystemRoot%\System32\svchost.exe -k LocalServiceNetworkRestricted -p"
+"LaunchProtected"="2"
+"ObjectName"="NT AUTHORITY\LocalService"
+"RequiredPrivileges"="SeChangeNotifyPrivilege*SeImpersonatePrivilege"
+"ServiceSidType"="1"
+"Start"="2"
+"Type"="32"
+[HKLM\SYSTEM\CurrentControlSet\Services\wscsvc\Parameters]
+"ServiceDll"="%SystemRoot%\System32\wscsvc.dll"
+"ServiceDllUnloadOnStop"="1"
+[HKLM\SYSTEM\CurrentControlSet\Services\wscsvc\Security]
+"Security"="010014801c01000028010000140000003000000002001c000100000002801400ff010f000101000000000001000000000200ec0008000000000018009d00020001020000000000052000000021020000000014009d010200010100000000000512000000 (the data entry has 416 more characters)."
+
+=== End of ExportKey ===
+================== ExportKey: ===================
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SecurityHealthService]
+"DependOnService"="RpcSs"
+"Description"="@%systemroot%\system32\SecurityHealthAgent.dll,-1001"
+"DisplayName"="@%systemroot%\system32\SecurityHealthAgent.dll,-1002"
+"ErrorControl"="1"
+"FailureActions"="80510100000000000000000003000000140000000100000060ea00000100000060ea00000000000000000000"
+"ImagePath"="%SystemRoot%\system32\SecurityHealthService.exe"
+"LaunchProtected"="2"
+"ObjectName"="LocalSystem"
+"RequiredPrivileges"="SeImpersonatePrivilege*SeBackupPrivilege*SeRestorePrivilege*SeDebugPrivilege*SeChangeNotifyPrivilege*SeSecurityPrivilege*SeAssignPrimaryTokenPrivilege*SeTcbPrivilege*SeSystemEnvironmentPrivilege*SeShu (the data entry has 14 more characters)."
+"ServiceSidType"="1"
+"Start"="3"
+"Type"="16"
+[HKLM\SYSTEM\CurrentControlSet\Services\SecurityHealthService\Security]
+"Security"="010014801c01000028010000140000003000000002001c000100000002801400ff000f000101000000000001000000000200ec0008000000000018009d00020001020000000000052000000021020000000014009d010200010100000000000512000000 (the data entry has 416 more characters)."
+
+=== End of ExportKey ===
+"HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\\ServiceKeepAlive" => removed successfully
+
+==== End of Fixlog 19:27:22 ====
