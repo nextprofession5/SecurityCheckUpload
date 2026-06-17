@@ -1,0 +1,546 @@
+Additional scan result of Farbar Recovery Scan Tool (x64) Version: 13-06-2026
+Ran by johnn (15-06-2026 14:51:17)
+Running from C:\Users\johnn\Downloads
+Microsoft Windows 11 Pro Version 25H2 26200.8655 (X64) (2026-06-10 21:39:41)
+Boot Mode: Normal
+==========================================================
+
+
+==================== Accounts: =============================
+
+(If an entry is included in the fixlist, it will be removed.)
+
+Administrator (S-1-5-21-2894957277-1316397184-1895576732-500 - Administrators - Disabled)
+DefaultAccount (S-1-5-21-2894957277-1316397184-1895576732-503 - Limited - Disabled)
+Guest (S-1-5-21-2894957277-1316397184-1895576732-501 - Limited - Disabled)
+johnn (S-1-5-21-2894957277-1316397184-1895576732-1001 - Administrators - Enabled) => C:\Users\johnn
+WDAGUtilityAccount (S-1-5-21-2894957277-1316397184-1895576732-504 - Limited - Disabled)
+WsiAccount (S-1-5-21-2894957277-1316397184-1895576732-1013 - Limited - Disabled) => C:\Users\WsiAccount
+
+==================== Security Center ========================
+
+(If an entry is included in the fixlist, it will be removed.)
+
+AV: Malwarebytes (Enabled - Up to date) {A537353A-1D6A-F6B5-9153-CE1CF80FBE66}
+AV: Windows Defender (Disabled - Up to date) {D68DDC3A-831F-4fae-9E44-DA132C1ACF46}
+
+==================== Installed Programs ======================
+
+(Only the adware programs with "Hidden" flag could be added to the fixlist to unhide them. The adware programs should be uninstalled manually.)
+
+Adobe After Effects 2025 (HKLM-x32\...\AEFT_25_0_1) (Version: 25.0.1 - Adobe Inc.)
+Adobe Bridge 2025 (HKLM-x32\...\KBRG_15_0_0) (Version: 15.0.0 - Adobe Inc.)
+Adobe Creative Cloud (HKLM-x32\...\Adobe Creative Cloud) (Version: 6.9.1.1 - Adobe Inc.)
+Adobe Illustrator 2025 (HKLM-x32\...\ILST_29_0_1) (Version: 29.0.1 - Adobe Inc.)
+Adobe Lightroom Classic (HKLM-x32\...\LTRM_14_0_1) (Version: 14.0.1 - Adobe Inc.)
+Adobe Media Encoder 2025 (HKLM-x32\...\AME_25_0) (Version: 25.0 - Adobe Inc.)
+Adobe Photoshop 2025 (HKLM-x32\...\PHSP_26_0) (Version: 26.0.0.26 - Adobe Inc.)
+Adobe Premiere Pro 2025 (HKLM-x32\...\PPRO_25_0) (Version: 25.0 - Adobe Inc.)
+AltServer (HKLM-x32\...\{3E600B5B-812C-424E-8405-A8C10E46DC81}) (Version: 1.7.4 - Riley Testut)
+AltServer (HKLM-x32\...\{6AABEB90-A6BD-4168-A043-5FC3EA0F8D37}) (Version: 1.5.1 - Riley Testut)
+Battle.net (HKLM-x32\...\Battle.net) (Version:  - Blizzard Entertainment)
+BCUninstaller 6.1.0.0 (HKLM\...\{f4fef76c-1aa9-441c-af7e-d27f58d898d1}_is1) (Version: 6.1.0.0 - Marcin Szeniak)
+Comfy Desktop 1.0.18 (HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\f0c0feae-2b28-5d68-8c25-d93f41e47df2) (Version: 1.0.18 - Comfy Org)
+DaVinci Resolve Control Panels (HKLM\...\{D1ACF467-9FB4-45DA-942F-A19452E70A3F}) (Version: 2.0.7.0 - Blackmagic Design)
+Dehancer Pro Ae/Pr v2.0.0 (HKLM\...\{2637B7E4-39B9-4E09-B4C3-BDFEC2DCE4EA}_is1) (Version: 2.0.0 - Dehancer Team & Team V.R)
+Discord (HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\Discord) (Version: 1.0.9241 - Discord Inc.)
+Epic Games Launcher (HKLM-x32\...\{B85FAA6E-A9AA-4655-9029-E1A4EDC05E1A}) (Version: 1.3.93.0 - Epic Games, Inc.)
+Epic Games Launcher Prerequisites (x64) (HKLM\...\{F9C5C994-F6B9-4D75-B3E7-AD01B84073E9}) (Version: 1.0.0.0 - Epic Games, Inc.) Hidden
+Epic Online Services (HKLM-x32\...\{57A956AB-4BCC-45C6-9B40-957E4E125568}) (Version: 2.0.44.0 - Epic Games, Inc.)
+FiveM (HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\CitizenFX_FiveM) (Version:  - Cfx.re)
+FxSound (HKLM\...\{44F94A7A-3F02-44F3-8B53-69E22FB43E36}) (Version: 1.1.16.0 - FxSound LLC) Hidden
+FxSound (HKLM\...\FxSound 1.1.16.0) (Version: 1.1.16.0 - FxSound LLC)
+Git (HKLM\...\Git_is1) (Version: 2.54.0 - The Git Development Community)
+Google Chrome (HKLM-x32\...\Google Chrome) (Version: 149.0.7827.115 - Google LLC)
+HandBrake 1.10.2 (HKLM-x32\...\HandBrake) (Version: 1.10.2 - )
+HidHide (HKLM\...\{27AF679E-48DB-4B49-A689-1D6A3A52C472}) (Version: 1.2.98 - Nefarius Software Solutions e.U.)
+HWiNFO64 Version 7.26 (HKLM\...\HWiNFO64_is1) (Version: 7.26 - Martin Malik - REALiX)
+Icaros (HKLM\...\Icaros_is1) (Version: 3.3.0.0 - Tabibito Technology)
+iloader (HKLM\...\{AD6E7853-7D79-40FF-B504-1AB936BE40BB}) (Version: 2.2.6 - nabdev)
+iloader (HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\iloader) (Version: 1.1.4 - nabdev)
+iMazing (HKLM\...\iMazing_is1) (Version: 3.5.5.0 - DigiDNA)
+Input Director v2.1.4  (HKLM-x32\...\Input Director) (Version: 2.1.4 - Imperative Software Pty Ltd)
+iTunes (HKLM\...\{F0D2C441-5D79-468A-AAA3-C9A3B629560D}) (Version: 12.13.10.3 - Apple Inc.)
+Launcher Prerequisites (x64) (HKLM-x32\...\{43a03b9c-4770-409c-a999-587b60700b63}) (Version: 1.0.0.0 - Epic Games, Inc.) Hidden
+League of Legends (HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\Riot Game league_of_legends.live) (Version:  - Riot Games, Inc)
+Lenovo Legion Toolkit version 2.26.1 (HKLM\...\{0C37B9AC-9C3D-4302-8ABB-125C7C7D83D5}_is1) (Version: 2.26.1 - Bartosz Cichecki)
+Locally Uncensored (HKLM\...\Locally Uncensored) (Version: 2.5.2 - PurpleDoubleD)
+Logitech G HUB (HKLM\...\{521c89be-637f-4274-a840-baaf7460c2b2}) (Version: 2022.12.348746 - Logitech)
+Malwarebytes version 5.5.7.255 (HKLM\...\{35065F43-4BB2-439A-BFF7-0F1014F2E0CD}_is1) (Version: 5.5.7.255 - Malwarebytes)
+Microsoft .NET Host - 6.0.20 (x86) (HKLM-x32\...\{82F89EDB-1DF1-402B-BED6-01C736967B6F}) (Version: 48.83.63169 - Microsoft Corporation) Hidden
+Microsoft .NET Host - 8.0.11 (x86) (HKLM-x32\...\{45D974D3-5A16-4D43-8905-6F9E3475472B}) (Version: 64.44.23191 - Microsoft Corporation) Hidden
+Microsoft .NET Host - 8.0.15 (x64) (HKLM\...\{4C903F19-B4C3-4D0C-8CC9-D444C511AF1C}) (Version: 64.60.31149 - Microsoft Corporation) Hidden
+Microsoft .NET Host FX Resolver - 6.0.20 (x86) (HKLM-x32\...\{561137EF-2ECE-48F0-A6D6-6260AC7112A5}) (Version: 48.83.63169 - Microsoft Corporation) Hidden
+Microsoft .NET Host FX Resolver - 8.0.11 (x86) (HKLM-x32\...\{4C28A887-5DB9-40B7-9F05-BAF4F3338864}) (Version: 64.44.23191 - Microsoft Corporation) Hidden
+Microsoft .NET Host FX Resolver - 8.0.15 (x64) (HKLM\...\{11CCC9F6-77AA-4421-9EAC-BAEC36D96817}) (Version: 64.60.31149 - Microsoft Corporation) Hidden
+Microsoft .NET Runtime - 6.0.20 (x86) (HKLM-x32\...\{6E4984A9-4321-4D96-861F-D03578E68C8B}) (Version: 48.83.63169 - Microsoft Corporation) Hidden
+Microsoft .NET Runtime - 8.0.11 (x86) (HKLM-x32\...\{9E437768-17F5-4BB3-945A-92D840A55CFC}) (Version: 64.44.23191 - Microsoft Corporation) Hidden
+Microsoft .NET Runtime - 8.0.15 (x64) (HKLM\...\{8731E6E3-AF96-4515-ACEC-DBFB3DF55292}) (Version: 64.60.31149 - Microsoft Corporation) Hidden
+Microsoft Edge WebView2 Runtime (HKLM-x32\...\Microsoft EdgeWebView) (Version: 149.0.4022.69 - Microsoft Corporation) Hidden
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211 (HKLM\...\{86AB2CC9-08BD-4643-B0F9-F82D006D72FF}) (Version: 14.44.35211 - Microsoft Corporation) Hidden
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211 (HKLM\...\{43B0D101-A022-48F4-9D04-BA404CEB1D53}) (Version: 14.44.35211 - Microsoft Corporation) Hidden
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211 (HKLM-x32\...\{C18FB403-1E88-43C8-AD8A-CED50F23DE8B}) (Version: 14.44.35211 - Microsoft Corporation) Hidden
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211 (HKLM-x32\...\{922480B5-CAEB-4B1B-AAA4-9716EFDCE26B}) (Version: 14.44.35211 - Microsoft Corporation) Hidden
+Microsoft Visual Studio Code (HKLM\...\{EA457B21-F73E-494C-ACAB-524FDE069978}_is1) (Version: 1.122.1 - Microsoft Corporation)
+Microsoft Windows Desktop Runtime - 6.0.20 (x86) (HKLM-x32\...\{FC641ACB-FE5E-4F88-B392-9421BDCA1143}) (Version: 48.83.63194 - Microsoft Corporation) Hidden
+Microsoft Windows Desktop Runtime - 8.0.11 (x86) (HKLM-x32\...\{3A6767BB-A8E1-450C-B57D-11EFEB753F9C}) (Version: 64.44.23253 - Microsoft Corporation) Hidden
+Microsoft Windows Desktop Runtime - 8.0.15 (x64) (HKLM\...\{0E4A7820-FDA4-4250-B7AC-E7A2F7B43B64}) (Version: 64.60.31203 - Microsoft Corporation) Hidden
+MPC-BE x64 1.6.11 (HKLM\...\{FE09AF6D-78B2-4093-B012-FCDAF78693CE}_is1) (Version: 1.6.11 - MPC-BE Team)
+MPC-HC 1.7.13 (64-bit) (HKLM\...\{2ACBF1FA-F5C3-4B19-A774-B22A31F231B9}_is1) (Version: 1.7.13 - MPC-HC Team)
+MPC-HC 1.7.9 (HKLM-x32\...\{2624B969-7135-4EB1-B0F6-2D8C397B45F7}_is1) (Version: 1.7.9 - MPC-HC Team)
+MSI Afterburner 4.6.4 (HKLM-x32\...\Afterburner) (Version: 4.6.4 - MSI Co., LTD)
+Nmap 7.99 (HKLM-x32\...\Nmap) (Version: 7.99 - Nmap Project)
+Npcap (HKLM-x32\...\NpcapInst) (Version: 1.88 - Nmap Project)
+NVIDIA HD Audio Driver 1.4.5.0 (HKLM\...\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_HDAudio.Driver) (Version: 1.4.5.0 - NVIDIA Corporation)
+NVIDIA PhysX System Software 9.23.1019 (HKLM\...\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.PhysX) (Version: 9.23.1019 - NVIDIA Corporation)
+Ollama version 0.30.7 (HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\{44E83376-CE68-45EB-8FC1-393500EB558C}_is1) (Version: 0.30.7 - Ollama)
+OSSEC HIDS 3.8.0 (HKLM-x32\...\OSSEC) (Version: 3.8.0 - )
+Proton VPN (HKLM\...\Proton VPN_is1) (Version: 4.4.1 - Proton AG)
+Python 3.12.7 (64-bit) (HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\{e9b7c837-5066-4f10-851a-69179f987b18}) (Version: 3.12.7150.0 - Python Software Foundation)
+Python 3.12.7 Core Interpreter (64-bit) (HKLM\...\{1BB43BDF-D9E8-487A-B743-CA10AAE7B25F}) (Version: 3.12.7150.0 - Python Software Foundation) Hidden
+Python 3.12.7 Development Libraries (64-bit) (HKLM\...\{EA6E73B7-512D-4853-BBA5-331DAE48A6B1}) (Version: 3.12.7150.0 - Python Software Foundation) Hidden
+Python 3.12.7 Documentation (64-bit) (HKLM\...\{314BCBA9-14E3-41D1-B9DD-32ADF7EA8C5D}) (Version: 3.12.7150.0 - Python Software Foundation) Hidden
+Python 3.12.7 Executables (64-bit) (HKLM\...\{8C1ACF90-E1B6-46A1-B4F0-DD6217005B25}) (Version: 3.12.7150.0 - Python Software Foundation) Hidden
+Python 3.12.7 pip Bootstrap (64-bit) (HKLM\...\{680AB42D-FAF3-46E2-A16D-BDD38E4506BB}) (Version: 3.12.7150.0 - Python Software Foundation) Hidden
+Python 3.12.7 Standard Library (64-bit) (HKLM\...\{FF6D0E73-2F53-4CF9-BD2C-F144E4FA02FE}) (Version: 3.12.7150.0 - Python Software Foundation) Hidden
+Python 3.12.7 Tcl/Tk Support (64-bit) (HKLM\...\{984178D8-5728-48E7-89A1-C3E9A4D5F5DE}) (Version: 3.12.7150.0 - Python Software Foundation) Hidden
+Python 3.12.7 Test Suite (64-bit) (HKLM\...\{909CC8E1-6EDC-40A8-9E04-7589DE69300A}) (Version: 3.12.7150.0 - Python Software Foundation) Hidden
+Python Launcher (HKLM-x32\...\{665A0435-D5D5-4A49-9DE0-FBC23C5425ED}) (Version: 3.12.10150.0 - Python Software Foundation)
+Recuva (HKLM\...\Recuva) (Version: 1.54 - Piriform)
+Riot Client  (HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\Riot Game Riot_Client.) (Version:  - Riot Games, Inc)
+Riot Vanguard (HKLM\...\Riot Vanguard) (Version:  - Riot Games, Inc.)
+RivaTuner Statistics Server 7.3.3 (HKLM-x32\...\RTSS) (Version: 7.3.3 - Unwinder)
+Steam (HKLM-x32\...\Steam) (Version: 2.10.91.91 - Valve Corporation)
+Streamlabs Desktop 1.15.1 (HKLM\...\029c4619-0385-5543-9426-46f9987161d9) (Version: 1.15.1 - General Workings, Inc.)
+Suricata IDS/IPS 8.0.5-1-64bit (HKLM\...\{42AB4288-8940-4B7D-97E2-75901A1D188F}) (Version: 8.0.5 - Open Information Security Foundation)
+Telegram Desktop (HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\{53F49750-6209-4FBF-9CA8-7A333C87D1ED}_is1) (Version: 6.8.2 - Telegram FZ-LLC)
+TreeSize Free V4.7.3 (64 bit) (HKLM\...\TreeSize Free_is1) (Version: 4.7.3 - JAM Software)
+VLC media player (HKLM\...\VLC media player) (Version: 4.0.0-dev - VideoLAN)
+VLC media player (HKLM-x32\...\VLC media player) (Version: 3.0.21 - VideoLAN)
+WinRAR 7.11 (64-bit) (HKLM\...\WinRAR archiver) (Version: 7.11.0 - win.rar GmbH)
+
+Packages:
+=========
+DuckDuckGo -> C:\Program Files\WindowsApps\DuckDuckGo.DesktopBrowser_0.161.3.0_x64__ya2fgkz3nks94 [2026-06-15] (DuckDuckGo) [Startup Task]
+
+==================== Custom CLSID (Whitelisted): ==============
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+CustomCLSID: HKU\S-1-5-21-2894957277-1316397184-1895576732-1001_Classes\CLSID\{13357088-9834-0409-1600-134951500000}\localserver32 -> "C:\Program Files\Adobe\Acrobat DC\Acrobat\ADNotificationManager.exe" -ToastActivated => No File
+CustomCLSID: HKU\S-1-5-21-2894957277-1316397184-1895576732-1001_Classes\CLSID\{38142727-3008-9161-1521-349515000000}\localserver32 -> "C:\Program Files\Adobe\Acrobat DC\Acrobat\ADNotificationManager.exe" -ToastActivated => No File
+CustomCLSID: HKU\S-1-5-21-2894957277-1316397184-1895576732-1001_Classes\CLSID\{50726f74-6f6e-2e56-504e-000000000000}\localserver32 -> C:\Program Files\Proton\VPN\v4.4.1\ProtonVPN.Client.exe (Proton AG -> ProtonVPN)
+CustomCLSID: HKU\S-1-5-21-2894957277-1316397184-1895576732-1001_Classes\CLSID\{DFF20505-B08F-455B-AD70-4FBD055088E0}\localserver32 -> C:\Program Files\Google\Chrome\Application\PlatformExperienceHelper\platform_experience_helper.exe (Google LLC -> Google LLC)
+ShellIconOverlayIdentifiers: [   AccExtIco1] -> {AB9CF9F8-8A96-4F9D-BF21-CE85714C3A47} => C:\Program Files (x86)\Common Files\Adobe\CoreSyncExtension\CoreSync_x64.dll [2026-06-10] (Adobe Inc. -> )
+ShellIconOverlayIdentifiers: [   AccExtIco2] -> {853B7E05-C47D-4985-909A-D0DC5C6D7303} => C:\Program Files (x86)\Common Files\Adobe\CoreSyncExtension\CoreSync_x64.dll [2026-06-10] (Adobe Inc. -> )
+ShellIconOverlayIdentifiers: [   AccExtIco3] -> {42D38F2E-98E9-4382-B546-E24E4D6D04BB} => C:\Program Files (x86)\Common Files\Adobe\CoreSyncExtension\CoreSync_x64.dll [2026-06-10] (Adobe Inc. -> )
+ShellIconOverlayIdentifiers: [ OneDrive1] -> {BBACC218-34EA-4666-9D7A-C78F2274A524} =>  -> No File
+ShellIconOverlayIdentifiers: [ OneDrive2] -> {5AB7172C-9C11-405C-8DD5-AF20F3606282} =>  -> No File
+ShellIconOverlayIdentifiers: [ OneDrive3] -> {A78ED123-AB77-406B-9962-2A5D9D2F7F30} =>  -> No File
+ShellIconOverlayIdentifiers: [ OneDrive4] -> {F241C880-6982-4CE5-8CF7-7085BA96DA5A} =>  -> No File
+ShellIconOverlayIdentifiers: [ OneDrive5] -> {A0396A93-DC06-4AEF-BEE9-95FFCCAEF20E} =>  -> No File
+ShellIconOverlayIdentifiers: [ OneDrive6] -> {9AA2F32D-362A-42D9-9328-24A483E2CCC3} =>  -> No File
+ShellIconOverlayIdentifiers: [ OneDrive7] -> {C5FF006E-2AE9-408C-B85B-2DFDD5449D9C} =>  -> No File
+ShellIconOverlayIdentifiers-x32: [ OneDrive1] -> {BBACC218-34EA-4666-9D7A-C78F2274A524} =>  -> No File
+ShellIconOverlayIdentifiers-x32: [ OneDrive2] -> {5AB7172C-9C11-405C-8DD5-AF20F3606282} =>  -> No File
+ShellIconOverlayIdentifiers-x32: [ OneDrive3] -> {A78ED123-AB77-406B-9962-2A5D9D2F7F30} =>  -> No File
+ShellIconOverlayIdentifiers-x32: [ OneDrive4] -> {F241C880-6982-4CE5-8CF7-7085BA96DA5A} =>  -> No File
+ShellIconOverlayIdentifiers-x32: [ OneDrive5] -> {A0396A93-DC06-4AEF-BEE9-95FFCCAEF20E} =>  -> No File
+ShellIconOverlayIdentifiers-x32: [ OneDrive6] -> {9AA2F32D-362A-42D9-9328-24A483E2CCC3} =>  -> No File
+ShellIconOverlayIdentifiers-x32: [ OneDrive7] -> {C5FF006E-2AE9-408C-B85B-2DFDD5449D9C} =>  -> No File
+ContextMenuHandlers1: [AccExt] -> {2A118EB5-5797-4F5E-8B3D-F4ECBA3C98E4} => C:\Program Files (x86)\Common Files\Adobe\CoreSyncExtension\CoreSync_x64.dll [2026-06-10] (Adobe Inc. -> )
+ContextMenuHandlers1: [InputDirectorShellIntegration] -> {C7BBD19B-D769-42AF-99B6-E6FE8568CD30} => C:\Program Files\Input Director\ShellIntegrator64.dll [2023-06-14] (Imperative Software Pty Ltd -> )
+ContextMenuHandlers3: [MBAMShlExt] -> {57CE581A-0CB6-4266-9CA0-19364C90A0B3} => C:\Program Files\Malwarebytes\Anti-Malware\mbshlext.dll [2026-06-10] (Malwarebytes Inc -> Malwarebytes)
+ContextMenuHandlers4: [InputDirectorShellIntegration] -> {C7BBD19B-D769-42AF-99B6-E6FE8568CD30} => C:\Program Files\Input Director\ShellIntegrator64.dll [2023-06-14] (Imperative Software Pty Ltd -> )
+ContextMenuHandlers4: [RecuvaShellExt] -> {435E5DF5-2510-463C-B223-BDA47006D002} => C:\Program Files\Recuva\RecuvaShell64.dll [2024-05-22] (PIRIFORM SOFTWARE LIMITED -> Piriform Software Ltd)
+ContextMenuHandlers5: [NvCplDesktopContext] -> {3D1975AF-48C6-4f8e-A182-BE0E08FA86A9} => C:\WINDOWS\System32\DriverStore\FileRepository\nvlt.inf_amd64_5debc1a882f7d5ea\nvshext.dll [2022-09-07] (Nvidia Corporation -> NVIDIA Corporation)
+ContextMenuHandlers6: [AccExt] -> {2A118EB5-5797-4F5E-8B3D-F4ECBA3C98E4} => C:\Program Files (x86)\Common Files\Adobe\CoreSyncExtension\CoreSync_x64.dll [2026-06-10] (Adobe Inc. -> )
+ContextMenuHandlers6: [MBAMShlExt] -> {57CE581A-0CB6-4266-9CA0-19364C90A0B3} => C:\Program Files\Malwarebytes\Anti-Malware\mbshlext.dll [2026-06-10] (Malwarebytes Inc -> Malwarebytes)
+ContextMenuHandlers6: [RecuvaShellExt] -> {435E5DF5-2510-463C-B223-BDA47006D002} => C:\Program Files\Recuva\RecuvaShell64.dll [2024-05-22] (PIRIFORM SOFTWARE LIMITED -> Piriform Software Ltd)
+
+==================== Codecs (Whitelisted) ====================
+
+(If an entry is included in the fixlist, the registry item will be restored to default or removed. The file will not be moved.)
+
+HKLM\...\Drivers32: [VIDC.RTV1] => C:\WINDOWS\system32\rtvcvfw64.dll [246272 2012-09-28] () [File not signed]
+HKLM\...\Drivers32: [VIDC.RTV1] => C:\Windows\SysWOW64\rtvcvfw32.dll [247296 2012-09-28] () [File not signed]
+
+==================== Shortcuts & WMI ========================
+
+(The entries could be listed to be restored or removed.)
+
+ShortcutWithArgument: C:\Users\johnn\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts\9501e18d7c2ab92e\johnny - Chrome.lnk -> C:\Program Files\Google\Chrome\Application\chrome.exe (Google LLC) -> --profile-directory="Profile 2"
+ShortcutWithArgument: C:\Users\johnn\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts\69639df789022856\Google Chrome.lnk -> C:\Program Files\Google\Chrome\Application\chrome.exe (Google LLC) -> --profile-directory="Profile 1"
+
+==================== Loaded Modules (Whitelisted) =============
+
+2023-01-09 22:43 - 2023-01-09 22:42 - 000156160 _____ () [File not signed] C:\Program Files\LGHUB\resources\app.asar.unpacked\keytar.node
+2025-05-31 06:58 - 2025-05-31 06:58 - 000152562 _____ () [File not signed] C:\Program Files\Suricata\libjansson-4.dll
+2025-02-18 12:56 - 2025-02-18 12:56 - 000706178 _____ () [File not signed] C:\Program Files\Suricata\libpcre2-8-0.dll
+2023-12-17 10:26 - 2023-12-17 10:26 - 000153518 _____ () [File not signed] C:\Program Files\Suricata\libyaml-0-2.dll
+2024-04-04 13:22 - 2024-12-17 20:19 - 000373760 _____ (Autofac) [File not signed] [File is in use] C:\Users\johnn\AppData\Local\Programs\LenovoLegionToolkit\Autofac.dll
+2024-04-04 13:22 - 2020-12-09 07:59 - 000467968 _____ (falahati.net) [File not signed] [File is in use] C:\Users\johnn\AppData\Local\Programs\LenovoLegionToolkit\NvAPIWrapper.dll
+2024-04-04 13:22 - 2020-02-10 20:30 - 000065536 _____ (falahati.net) [File not signed] [File is in use] C:\Users\johnn\AppData\Local\Programs\LenovoLegionToolkit\WindowsDisplayAPI.dll
+2024-04-04 13:22 - 2025-03-05 21:54 - 000335360 _____ (GitHub Community) [File not signed] [File is in use] C:\Users\johnn\AppData\Local\Programs\LenovoLegionToolkit\Microsoft.Win32.TaskScheduler.dll
+2024-04-04 13:22 - 2025-01-08 18:25 - 001399296 _____ (GitHub) [File not signed] [File is in use] C:\Users\johnn\AppData\Local\Programs\LenovoLegionToolkit\Octokit.dll
+2024-04-04 13:22 - 2025-05-10 19:44 - 001179648 _____ (Lenovo Legion Toolkit) [File not signed] [File is in use] C:\Users\johnn\AppData\Local\Programs\LenovoLegionToolkit\Lenovo Legion Toolkit.dll
+2024-04-04 13:22 - 2025-05-10 19:44 - 001098752 _____ (LenovoLegionToolkit.Lib) [File not signed] [File is in use] C:\Users\johnn\AppData\Local\Programs\LenovoLegionToolkit\LenovoLegionToolkit.Lib.dll
+2024-04-04 13:22 - 2025-05-10 19:44 - 000118784 _____ (LenovoLegionToolkit.Lib.Automation) [File not signed] [File is in use] C:\Users\johnn\AppData\Local\Programs\LenovoLegionToolkit\LenovoLegionToolkit.Lib.Automation.dll
+2024-07-06 18:52 - 2025-05-10 19:44 - 000028160 _____ (LenovoLegionToolkit.Lib.Macro) [File not signed] [File is in use] C:\Users\johnn\AppData\Local\Programs\LenovoLegionToolkit\LenovoLegionToolkit.Lib.Macro.dll
+2024-04-04 13:22 - 2023-08-19 05:43 - 005086720 _____ (lepo.co) [File not signed] [File is in use] C:\Users\johnn\AppData\Local\Programs\LenovoLegionToolkit\Wpf.Ui.dll
+2024-04-04 13:22 - 2023-09-04 20:49 - 000179200 _____ (Mark Heath) [File not signed] [File is in use] C:\Users\johnn\AppData\Local\Programs\LenovoLegionToolkit\NAudio.Wasapi.dll
+2024-05-17 12:25 - 2024-05-17 12:25 - 000126976 _____ (Microsoft Corporation) [File not signed] C:\WINDOWS\SYSTEM32\UpdatePolicyScenarioReliabilityAggregator.dll
+2025-06-08 01:25 - 2025-06-08 01:25 - 000064409 _____ (MinGW-W64 Project. All rights reserved.) [File not signed] C:\Program Files\Suricata\libwinpthread-1.dll
+2024-04-04 13:22 - 2022-01-10 22:48 - 000016384 _____ (NeoSmart Technologies) [File not signed] [File is in use] C:\Users\johnn\AppData\Local\Programs\LenovoLegionToolkit\AsyncLock.dll
+2024-04-04 13:22 - 2025-03-12 08:19 - 000125440 _____ (PixiEditor) [File not signed] [File is in use] C:\Users\johnn\AppData\Local\Programs\LenovoLegionToolkit\ColorPicker.dll
+2024-04-04 13:22 - 2021-11-24 02:01 - 000011776 _____ (upta) [File not signed] [File is in use] C:\Users\johnn\AppData\Local\Programs\LenovoLegionToolkit\PubSub.dll
+2024-07-22 17:08 - 2024-07-22 17:08 - 000158649 _____ (Yann Collet) [File not signed] C:\Program Files\Suricata\liblz4.dll
+
+==================== Alternate Data Streams (Whitelisted) ========
+
+(If an entry is included in the fixlist, only the ADS will be removed.)
+
+AlternateDataStreams: C:\Users\johnn\Downloads\AdwCleaner.exe:MBAM.Zone.Identifier [214]
+AlternateDataStreams: C:\Users\johnn\Downloads\CCSetup.exe:MBAM.Zone.Identifier [125]
+AlternateDataStreams: C:\Users\johnn\Downloads\ChromeSetup.exe:MBAM.Zone.Identifier [390]
+AlternateDataStreams: C:\Users\johnn\Downloads\esetonlinescanner.exe:MBAM.Zone.Identifier [243]
+AlternateDataStreams: C:\Users\johnn\Downloads\iCloud Installer.exe:MBAM.Zone.Identifier [126]
+AlternateDataStreams: C:\Users\johnn\Downloads\iExplore.exe:MBAM.Zone.Identifier [207]
+AlternateDataStreams: C:\Users\johnn\Downloads\Locally.Uncensored_2.5.2_x64-setup.exe:MBAM.Zone.Identifier [2160]
+AlternateDataStreams: C:\Users\johnn\Downloads\Locally.Uncensored_2.5.2_x64_en-US.msi:MBAM.Zone.Identifier [2156]
+AlternateDataStreams: C:\Users\johnn\Downloads\mbar-1.10.3.1001.exe:MBAM.Zone.Identifier [229]
+AlternateDataStreams: C:\Users\johnn\Downloads\npcap-1.88.exe:MBAM.Zone.Identifier [210]
+AlternateDataStreams: C:\Users\johnn\Downloads\ossec-agent-win32-3.8.0-35114.exe:MBAM.Zone.Identifier [318]
+AlternateDataStreams: C:\Users\johnn\Downloads\Python 3.12 Installer.exe:MBAM.Zone.Identifier [126]
+AlternateDataStreams: C:\Users\johnn\Downloads\Python Install Manager Installer.exe:MBAM.Zone.Identifier [126]
+AlternateDataStreams: C:\Users\johnn\Downloads\python-3.12.0-amd64.exe:MBAM.Zone.Identifier [334]
+AlternateDataStreams: C:\Users\johnn\Downloads\python-3.12.10.exe:MBAM.Zone.Identifier [262]
+AlternateDataStreams: C:\Users\johnn\Downloads\python-3.12.7-amd64.exe:MBAM.Zone.Identifier [310]
+AlternateDataStreams: C:\Users\johnn\Downloads\saver_trial_installer_20260611.17811923857969b2821.exe:MBAM.Zone.Identifier [362]
+AlternateDataStreams: C:\Users\johnn\Downloads\Sinners (2025) [2160p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX].torrent:mshield [201]
+AlternateDataStreams: C:\Users\johnn\Downloads\Suricata-8.0.5-1-64bit.msi:MBAM.Zone.Identifier [302]
+AlternateDataStreams: C:\Users\johnn\Downloads\Windows-KB890830-x64-V5.142.exe:MBAM.Zone.Identifier [255]
+
+==================== Safe Mode (Whitelisted) ==================
+
+==================== Association (Whitelisted) =================
+
+==================== Internet Explorer (Whitelisted) =============
+
+BHO: IEToEdge BHO -> {1FD49718-1D00-4B19-AF5F-070AF6D5D54C} -> C:\Program Files (x86)\Microsoft\Edge\Application\149.0.4022.69\BHO\ie_to_edge_bho_64.dll => No File
+BHO: Adobe Acrobat Create PDF Helper -> {AE7CD045-E861-484f-8273-0445EE161910} -> C:\Program Files\Common Files\Adobe\Acrobat\WCIEActiveX\DC\x64\AcroIEFavStub.dll [2026-06-08] (Adobe Inc. -> Adobe Systems Incorporated)
+BHO: Adobe Acrobat Create PDF from Selection -> {F4971EE7-DAA0-4053-9964-665D8EE6A077} -> C:\Program Files\Common Files\Adobe\Acrobat\WCIEActiveX\DC\x64\AcroIEFavStub.dll [2026-06-08] (Adobe Inc. -> Adobe Systems Incorporated)
+BHO-x32: IEToEdge BHO -> {1FD49718-1D00-4B19-AF5F-070AF6D5D54C} -> C:\Program Files (x86)\Microsoft\Edge\Application\149.0.4022.69\BHO\ie_to_edge_bho.dll => No File
+BHO-x32: Adobe Acrobat Create PDF Helper -> {AE7CD045-E861-484f-8273-0445EE161910} -> C:\Program Files\Common Files\Adobe\Acrobat\WCIEActiveX\DC\AcroIEFavStub.dll [2026-06-08] (Adobe Inc. -> Adobe Systems Incorporated)
+BHO-x32: Adobe Acrobat Create PDF from Selection -> {F4971EE7-DAA0-4053-9964-665D8EE6A077} -> C:\Program Files\Common Files\Adobe\Acrobat\WCIEActiveX\DC\AcroIEFavStub.dll [2026-06-08] (Adobe Inc. -> Adobe Systems Incorporated)
+Toolbar: HKLM - Adobe Acrobat Create PDF Toolbar - {47833539-D0C5-4125-9FA8-0819E2EAAC93} - C:\Program Files\Common Files\Adobe\Acrobat\WCIEActiveX\DC\x64\AcroIEFavStub.dll [2026-06-08] (Adobe Inc. -> Adobe Systems Incorporated)
+Toolbar: HKLM-x32 - Adobe Acrobat Create PDF Toolbar - {47833539-D0C5-4125-9FA8-0819E2EAAC93} - C:\Program Files\Common Files\Adobe\Acrobat\WCIEActiveX\DC\AcroIEFavStub.dll [2026-06-08] (Adobe Inc. -> Adobe Systems Incorporated)
+
+==================== Hosts content: =========================
+
+(If needed Hosts: directive could be included in the fixlist to reset Hosts.)
+
+2022-12-29 17:20 - 2022-12-29 17:19 - 000000824 _____ C:\WINDOWS\system32\drivers\etc\hosts
+
+2024-02-29 09:27 - 2024-02-29 09:27 - 000000439 _____ C:\WINDOWS\system32\drivers\etc\hosts.ics
+
+==================== Network ===========================
+
+(Currently there is no automatic fix for this section.)
+
+DNS Servers: 10.2.0.1 - 1.1.1.1
+Windows Firewall is enabled.
+
+Network Binding:
+=============
+Ethernet: Realtek Gaming 2.5GbE Family Controller -> rt25cx21x64.sys
+ProtonVPN: WireGuard Tunnel -> wireguard.sys
+Local Area Connection: WireGuard Tunnel -> wireguard.sys
+Wi-Fi: Intel(R) Wi-Fi 6E AX211 160MHz -> Netwtw14.sys
+
+INSECURE_NPCAP: Npcap Packet Driver (NPCAP)
+
+==================== Other Areas ===========================
+
+(Currently there is no automatic fix for this section.)
+
+HKLM\System\CurrentControlSet\Control\Session Manager\Environment\\Path -> C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft VS Code\bin
+HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\Control Panel\Desktop\\Wallpaper -> C:\Users\johnn\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\PhotosAppBackground\d6wfrsc1lbs81.png
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System => (ConsentPromptBehaviorAdmin: 5) (ConsentPromptBehaviorUser: 3) (EnableLUA: 1)
+HKLM\SOFTWARE\Microsoft\Windows Defender\Features => (TamperProtection: 5) (TamperProtectionSource: 2)
+HKLM\SOFTWARE\Microsoft\Windows Defender\Real-Time Protection => (DpaDisabled: 0)
+
+
+==================== MSCONFIG/TASK MANAGER disabled items ==
+
+(If an entry is included in the fixlist, it will be removed.)
+
+HKLM\...\StartupApproved\Run: => "SecurityHealth"
+HKLM\...\StartupApproved\Run: => "AdobeAAMUpdater-1.0"
+HKLM\...\StartupApproved\Run: => "iTunesHelper"
+HKLM\...\StartupApproved\Run: => "RtkAudUService"
+HKLM\...\StartupApproved\Run32: => "Adobe CCXProcess"
+HKLM\...\StartupApproved\Run32: => "Adobe Creative Cloud"
+HKLM\...\StartupApproved\Run32: => "ConnectionCenter"
+HKLM\...\StartupApproved\Run32: => "InputDirector"
+HKLM\...\StartupApproved\Run32: => "InstallHelper"
+HKLM\...\StartupApproved\Run32: => "Redirector"
+HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\StartupApproved\Run: => "Adobe Acrobat Synchronizer"
+HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\StartupApproved\Run: => "AltServer"
+HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\StartupApproved\Run: => "Battle.net"
+HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\StartupApproved\Run: => "iCloudServices"
+HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\StartupApproved\Run: => "LenovoVantage"
+HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\StartupApproved\Run: => "Steam"
+HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\StartupApproved\Run: => "Discord"
+HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\StartupApproved\Run: => "EpicGamesLauncher"
+HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\StartupApproved\Run: => "NordVPN"
+HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\StartupApproved\Run: => "Sideloadly Daemon"
+HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\StartupApproved\Run: => "ut"
+HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\StartupApproved\Run: => "utweb"
+HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\StartupApproved\Run: => "Teams"
+HKU\S-1-5-21-2894957277-1316397184-1895576732-1001\...\StartupApproved\Run: => "NoxMultiPlayer"
+
+==================== FirewallRules (Whitelisted) ================
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+FirewallRules: [EdgeWebView2-MDNS-In-UDP] => (Allow) C:\WINDOWS\system32\Microsoft-Edge-WebView\msedgewebview2.exe (Microsoft Corporation -> Microsoft Corporation)
+FirewallRules: [{93A8EA4B-DCAF-4325-93EE-14B5E6573E13}] => (Allow) C:\Program Files\WindowsApps\DuckDuckGo.DesktopBrowser_0.161.3.0_x64__ya2fgkz3nks94\WindowsBrowser\DuckDuckGo.WebView.exe (Duck Duck Go, Inc. -> DuckDuckGo)
+FirewallRules: [{ACD6AB9F-C73E-44B8-9737-E6A7000EE66B}] => (Allow) C:\Program Files\WindowsApps\DuckDuckGo.DesktopBrowser_0.161.3.0_x64__ya2fgkz3nks94\WindowsBrowser\DuckDuckGo.WebView.exe (Duck Duck Go, Inc. -> DuckDuckGo)
+FirewallRules: [{D9442BAC-3FB5-46F7-B41C-6BEDAE28D02C}] => (Allow) C:\Program Files\Google\Chrome\Application\chrome.exe (Google LLC -> Google LLC)
+
+==================== Restore Points =========================
+
+10-06-2026 21:59:07 Removed Locally Uncensored
+14-06-2026 18:16:12 Restore point created by Win11Debloat
+
+==================== Faulty Device Manager Devices ============
+Name: Remote Desktop Camera Bus
+Description: UMBus Enumerator
+Class Guid: {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer: Microsoft
+Service: umbus
+Problem: : This device is disabled. (Code 22)
+Resolution: In Device Manager, click "Action", and then click "Enable Device". This starts the Enable Device wizard. Follow the instructions.
+
+Name: Remote Desktop USB Hub
+Description: Remote Desktop USB Hub
+Class Guid: {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer: (Standard system devices)
+Service: tsusbhub
+Problem: : This device is disabled. (Code 22)
+Resolution: In Device Manager, click "Action", and then click "Enable Device". This starts the Enable Device wizard. Follow the instructions.
+
+Name: Video Controller (VGA Compatible)
+Description: Video Controller (VGA Compatible)
+Class Guid: {4d36e968-e325-11ce-bfc1-08002be10318}
+Manufacturer: NVIDIA
+Service: 
+Problem: : Reinstall the drivers for this device. (Code 18)
+Resolution: The drivers for this device must be reinstalled.
+ Click "Update Driver", which starts the Hardware Update wizard.
+Alternately, uninstall the driver, and then click "Scan for hardware changes" to reload the drivers.
+
+Name: Remote Desktop Device Redirector Bus
+Description: Remote Desktop Device Redirector Bus
+Class Guid: {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer: Microsoft
+Service: rdpbus
+Problem: : This device is disabled. (Code 22)
+Resolution: In Device Manager, click "Action", and then click "Enable Device". This starts the Enable Device wizard. Follow the instructions.
+
+
+==================== Event log errors: ========================
+
+Application errors:
+==================
+Error: (06/15/2026 02:22:58 PM) (Source: SideBySide) (EventID: 33) (User: )
+Description: Activation context generation failed for "C:\Program Files (x86)\MSI Afterburner\MSIAfterburner.exe".
+Dependent Assembly Microsoft.VC90.MFC,processorArchitecture="x86",publicKeyToken="1fc8b3b9a1e18e3b",type="win32",version="9.0.21022.8" could not be found.
+Please use sxstrace.exe for detailed diagnosis.
+
+Error: (06/15/2026 02:22:49 PM) (Source: SideBySide) (EventID: 33) (User: )
+Description: Activation context generation failed for "C:\Program Files (x86)\MSI Afterburner\MSIAfterburner.exe".
+Dependent Assembly Microsoft.VC90.MFC,processorArchitecture="x86",publicKeyToken="1fc8b3b9a1e18e3b",type="win32",version="9.0.21022.8" could not be found.
+Please use sxstrace.exe for detailed diagnosis.
+
+Error: (06/15/2026 02:20:42 PM) (Source: SideBySide) (EventID: 33) (User: )
+Description: Activation context generation failed for "C:\Program Files (x86)\MSI Afterburner\MSIAfterburner.exe".
+Dependent Assembly Microsoft.VC90.MFC,processorArchitecture="x86",publicKeyToken="1fc8b3b9a1e18e3b",type="win32",version="9.0.21022.8" could not be found.
+Please use sxstrace.exe for detailed diagnosis.
+
+Error: (06/15/2026 02:15:47 PM) (Source: SideBySide) (EventID: 33) (User: )
+Description: Activation context generation failed for "C:\Program Files (x86)\MSI Afterburner\MSIAfterburner.exe".
+Dependent Assembly Microsoft.VC90.MFC,processorArchitecture="x86",publicKeyToken="1fc8b3b9a1e18e3b",type="win32",version="9.0.21022.8" could not be found.
+Please use sxstrace.exe for detailed diagnosis.
+
+Error: (06/15/2026 02:14:02 PM) (Source: SideBySide) (EventID: 33) (User: )
+Description: Activation context generation failed for "C:\Program Files (x86)\MSI Afterburner\MSIAfterburner.exe".
+Dependent Assembly Microsoft.VC90.MFC,processorArchitecture="x86",publicKeyToken="1fc8b3b9a1e18e3b",type="win32",version="9.0.21022.8" could not be found.
+Please use sxstrace.exe for detailed diagnosis.
+
+Error: (06/15/2026 02:12:52 PM) (Source: SideBySide) (EventID: 33) (User: )
+Description: Activation context generation failed for "C:\Program Files (x86)\MSI Afterburner\MSIAfterburner.exe".
+Dependent Assembly Microsoft.VC90.MFC,processorArchitecture="x86",publicKeyToken="1fc8b3b9a1e18e3b",type="win32",version="9.0.21022.8" could not be found.
+Please use sxstrace.exe for detailed diagnosis.
+
+Error: (06/15/2026 02:11:53 PM) (Source: SideBySide) (EventID: 33) (User: )
+Description: Activation context generation failed for "C:\Program Files (x86)\MSI Afterburner\MSIAfterburner.exe".
+Dependent Assembly Microsoft.VC90.MFC,processorArchitecture="x86",publicKeyToken="1fc8b3b9a1e18e3b",type="win32",version="9.0.21022.8" could not be found.
+Please use sxstrace.exe for detailed diagnosis.
+
+Error: (06/15/2026 02:00:24 PM) (Source: Application Hang) (EventID: 1002) (User: NT AUTHORITY)
+Description: The program SystemSettings.exe version 10.0.26100.8521 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+
+
+System errors:
+=============
+Error: (06/15/2026 02:25:34 PM) (Source: Service Control Manager) (EventID: 7023) (User: )
+Description: The Remote Access Connection Manager service terminated with the following error: 
+The system cannot find the device specified.
+
+Error: (06/15/2026 02:25:34 PM) (Source: RasMan) (EventID: 20063) (User: )
+Description: Remote Access Connection Manager failed to start because the Protocol engine [C:\WINDOWS\system32\vpnike.dll] failed to initialize. The system cannot find the device specified.
+
+Error: (06/15/2026 02:13:09 PM) (Source: Service Control Manager) (EventID: 7023) (User: )
+Description: The Remote Access Connection Manager service terminated with the following error: 
+The system cannot find the device specified.
+
+Error: (06/15/2026 02:13:09 PM) (Source: RasMan) (EventID: 20063) (User: )
+Description: Remote Access Connection Manager failed to start because the Protocol engine [C:\WINDOWS\system32\vpnike.dll] failed to initialize. The system cannot find the device specified.
+
+Error: (06/15/2026 02:09:33 PM) (Source: Service Control Manager) (EventID: 7023) (User: )
+Description: The Remote Access Connection Manager service terminated with the following error: 
+The system cannot find the device specified.
+
+Error: (06/15/2026 02:09:33 PM) (Source: RasMan) (EventID: 20063) (User: )
+Description: Remote Access Connection Manager failed to start because the Protocol engine [C:\WINDOWS\system32\vpnike.dll] failed to initialize. The system cannot find the device specified.
+
+Error: (06/15/2026 02:05:57 PM) (Source: Service Control Manager) (EventID: 7023) (User: )
+Description: The Remote Access Connection Manager service terminated with the following error: 
+The system cannot find the device specified.
+
+Error: (06/15/2026 02:05:57 PM) (Source: RasMan) (EventID: 20063) (User: )
+Description: Remote Access Connection Manager failed to start because the Protocol engine [C:\WINDOWS\system32\vpnike.dll] failed to initialize. The system cannot find the device specified.
+
+
+Windows Defender:
+================
+Date: 2026-06-14 21:20:12
+Description: 
+C:\Program Files\BCUninstaller\BCUninstaller.exe has been blocked from modifying %userprofile%\Music by Controlled Folder Access.
+Detection time: 2026-06-15T02:20:12.149Z
+Path: %userprofile%\Music
+Process Name: C:\Program Files\BCUninstaller\BCUninstaller.exe
+Security intelligence Version: 1.453.98.0
+Engine Version: 1.1.26050.11
+Product Version: 4.18.26050.15
+�
+
+Date: 2026-06-14 20:43:37
+Description: 
+Microsoft Defender Antivirus scan has been stopped before completion.
+Scan Type: Antimalware
+Scan Parameters: Quick Scan
+Stop Reason: RPC connection rundown�
+
+Date: 2026-06-10 17:53:57
+Description: 
+Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Ulthar.A!ml&threatid=2147751841&enterprise=0
+Name: Trojan:Script/Ulthar.A!ml
+Severity: Severe
+Category: Trojan
+Path: file:_C:\Users\johnn\Downloads\SkyneTool MDM Bypass v1.0.zip
+Detection Origin: Local machine
+Detection Type: FastPath
+Detection Source: Real-Time Protection
+Process Name: C:\Program Files (x86)\Combo Cleaner\ComboCleaner.Engine.exe
+Security intelligence Version: AV: 1.453.29.0, AS: 1.453.29.0, NIS: 1.453.29.0
+Engine Version: AM: 1.1.26050.11, NIS: 1.1.26050.11�
+
+Date: 2026-06-10 17:51:16
+Description: 
+Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Exploit:MacOS/Kfd.C!MTB&threatid=2147919774&enterprise=0
+Name: Exploit:MacOS/Kfd.C!MTB
+Severity: Severe
+Category: Exploit
+Path: file:_C:\Windows\Temp\engines_temp\4660\tmp000002ba\tmp0043b126
+Detection Origin: Local machine
+Detection Type: Concrete
+Detection Source: Real-Time Protection
+Process Name: C:\Program Files (x86)\Combo Cleaner\ComboCleaner.Engine.exe
+Security intelligence Version: AV: 1.453.29.0, AS: 1.453.29.0, NIS: 1.453.29.0
+Engine Version: AM: 1.1.26050.11, NIS: 1.1.26050.11�
+﻿Event[0]
+
+Date: 2026-06-11 08:38:58
+Description: 
+Microsoft Defender Antivirus has encountered an error trying to update security intelligence and will attempt to revert to a previous version.
+Security intelligence Attempted: Current
+Error Code: 0x80501102
+Error description: An unexpected problem occurred. Install any available updates, and then try to start the program again. For information on installing updates, see Help and Support. 
+Security intelligence Version: 1.453.29.0;1.453.29.0
+Engine Version: 1.1.26050.11�
+
+Date: 2026-06-11 02:55:46
+Description: 
+Microsoft Defender Antivirus has encountered an error trying to update security intelligence and will attempt to revert to a previous version.
+Security intelligence Attempted: Current
+Error Code: 0x80501102
+Error description: An unexpected problem occurred. Install any available updates, and then try to start the program again. For information on installing updates, see Help and Support. 
+Security intelligence Version: 1.453.29.0;1.453.29.0
+Engine Version: 1.1.26050.11�
+
+Date: 2026-06-10 22:29:40
+Description: 
+Microsoft Defender Antivirus has encountered an error trying to update security intelligence and will attempt to revert to a previous version.
+Security intelligence Attempted: Current
+Error Code: 0x80501102
+Error description: An unexpected problem occurred. Install any available updates, and then try to start the program again. For information on installing updates, see Help and Support. 
+Security intelligence Version: 1.453.29.0;1.453.29.0
+Engine Version: 1.1.26050.11�
+
+CodeIntegrity:
+===============
+Date: 2026-06-15 14:47:33
+Description: 
+Code Integrity determined that a process (\Device\HarddiskVolume5\Program Files\Google\Chrome\Application\chrome.exe) attempted to load \Device\HarddiskVolume5\Program Files\Malwarebytes\Anti-Malware\mbae64.dll that did not meet the Microsoft signing level requirements.�
+
+
+==================== Memory info =========================== 
+
+BIOS: LENOVO K1CN48WW
+ 07/10/2024
+Motherboard: LENOVO INVALID
+Processor: 12th Gen Intel(R) Core(TM) i9-12900HX
+Percentage of memory in use: 43%
+Total physical RAM: 32492.49 MB
+Available physical RAM: 18321.22 MB
+Total Virtual: 53996.49 MB
+Available Virtual: 39539.42 MB
+
+==================== Drives ================================
+
+Drive c: (Windows-SSD) (Fixed) (Total:1905.5 GB) (Free:53.05 GB) (Model: SAMSUNG MZVL22T0HBLB-00BL2) NTFS
+Drive d: (New Volume) (Fixed) (Total:1907.71 GB) (Free:20.85 GB) (Model: SAMSUNG MZVL22T0HBLB-00BL2) NTFS
+
+\\?\Volume{b04733c4-ea69-4577-b69d-505edf7d9214}\ (WINRE_DRV) (Fixed) (Total:1.95 GB) (Free:1.01 GB) NTFS
+\\?\Volume{04ca88ae-2eb9-4c75-a903-af4843d25c47}\ (SYSTEM_DRV) (Fixed) (Total:0.25 GB) (Free:0.21 GB) FAT32
+
+==================== MBR & Partition Table ====================
+
+==========================================================
+Disk: 0 (Protective MBR) (Size: 1907.7 GB) (Disk ID: 00000000)
+
+Partition: GPT.
+
+==========================================================
+Disk: 1 (Size: 1907.7 GB) (Disk ID: 1D008884)
+
+Partition: GPT.
+
+==================== End of Addition.txt =======================
