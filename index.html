@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SecurityCheck Upload</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>SECURITYCHECK UPLOAD</h1>
+        <div class="upload-area" id="dropZone">
+            <div class="upload-box">
+                <p class="filename">SecurityCheck Log</p>
+                <p class="select-text">Select File</p>
+                <input type="file" id="fileInput" accept=".txt,.log" hidden>
+            </div>
+        </div>
+        <button class="upload-btn" id="uploadBtn">UPLOAD</button>
+        <p class="status" id="status"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

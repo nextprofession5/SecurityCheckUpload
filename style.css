@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+    padding: 40px;
+    width: 100%;
+    max-width: 600px;
+}
+
+h1 {
+    color: #ff6b6b;
+    font-size: 28px;
+    margin-bottom: 30px;
+    letter-spacing: 2px;
+}
+
+.upload-area {
+    background: #2a2a2a;
+    border: 2px dashed #555;
+    border-radius: 10px;
+    padding: 40px;
+    margin-bottom: 20px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.upload-area:hover,
+.upload-area.dragover {
+    border-color: #ff6b6b;
+    background: #333;
+}
+
+.upload-box {
+    padding: 20px;
+}
+
+.filename {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.select-text {
+    color: #888;
+    font-size: 14px;
+}
+
+.upload-btn {
+    background: #333;
+    color: #fff;
+    border: 1px solid #555;
+    padding: 12px 30px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    letter-spacing: 1px;
+}
+
+.upload-btn:hover {
+    background: #444;
+    border-color: #ff6b6b;
+}
+
+.upload-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.status {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #888;
+}
+
+.status.error {
+    color: #ff6b6b;
+}
+
+.status.success {
+    color: #4ecdc4;
+}
