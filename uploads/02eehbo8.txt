@@ -1,0 +1,641 @@
+Resultado do análise da Farbar Recovery Scan Tool (FRST) (x64) Versão: 20-06-2026
+Executado por leon (administrador) em DESKTOP-5LTGKEL (ASUSTeK COMPUTER INC. ASUS TUF Gaming A16 FA617NS_FA617NS) (23-06-2026 20:32:56)
+Executando a partir de C:\Users\leons\Documents\segurança\FRST64.exe
+Perfis Carregados: leon
+Plataforma: Microsoft Windows 11 IoT Enterprise Versão 21H2 22000.1641 (X64) Idioma: Português (Brasil)
+Navegador padrão: "C:\Users\leons\AppData\Local\Programs\Opera GX\opera.exe" -noautoupdate -- "%1"
+Modo da Inicialização: Normal
+
+==================== Processos (Whitelisted) =================
+
+(Se uma entrada for incluída na fixlist, o processo será fechado. O arquivo não será movido.)
+
+(Advanced Micro Devices -> Advanced Micro Devices, Inc.) C:\Program Files\AMD\CNext\CNext\RadeonSoftware.exe
+(ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.) C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe <3>
+(C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe ->) (ASUSTeK COMPUTER INC. -> ) C:\Program Files (x86)\ASUS\ArmouryDevice\dll\SwAgent\ArmourySwAgent.exe
+(C:\Program Files (x86)\Steam\steam.exe ->) (Valve Corp. -> Valve Corporation) C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe
+(C:\Program Files\AMD\CNext\CNext\AMDRSServ.exe ->) (Advanced Micro Devices -> Advanced Micro Devices, Inc.) C:\Program Files\AMD\CNext\CNext\amdow.exe
+(C:\Program Files\AMD\CNext\CNext\AMDRSServ.exe ->) (Advanced Micro Devices -> Advanced Micro Devices, Inc.) C:\Program Files\AMD\CNext\CNext\AMDRSSrcExt.exe
+(C:\Program Files\AMD\CNext\CNext\RadeonSoftware.exe ->) (Advanced Micro Devices -> Advanced Micro Devices, Inc.) C:\Program Files\AMD\CNext\CNext\cncmd.exe
+(C:\Program Files\ASUS\Armoury Crate Service\ArmouryCrate.Service.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.) C:\Program Files\ASUS\Armoury Crate Service\ArmouryCrate.UserSessionHelper.exe
+(C:\Program Files\DefenderUI\DefenderUIService.exe ->) (VoodooSoft, LLC -> VoodooSoft, LLC) C:\Program Files\DefenderUI\DefenderUI.exe
+(C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2623.103.0_x64__cv1g1gvanyjgm\WhatsApp.Root.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.80\msedgewebview2.exe
+(C:\Users\leons\AppData\Local\Programs\Opera GX\opera.exe ->) (Opera Norway AS -> Opera Software) C:\Users\leons\AppData\Local\Programs\Opera GX\132.0.5905.82\opera_crashreporter.exe
+(cmd.exe ->) (Advanced Micro Devices -> Advanced Micro Devices, Inc.) C:\Program Files\AMD\CNext\CNext\AMDRSServ.exe
+(DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSOptimization\AsusOptimization.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.) C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSOptimization\AsusOptimizationStartupTask.exe
+(DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSSoftwareManager\AsusSoftwareManager.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.​) C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSSoftwareManager\AsusSoftwareManagerAgent.exe
+(DriverStore\FileRepository\u0201589.inf_amd64_b04b6e436fa20245\B026175\atiesrxx.exe ->) (Advanced Micro Devices -> AMD) C:\Windows\System32\DriverStore\FileRepository\u0201589.inf_amd64_b04b6e436fa20245\B026175\atieclxx.exe
+(explorer.exe ->) (Opera Norway AS -> Opera Software) C:\Users\leons\AppData\Local\Programs\Opera GX\opera.exe
+(explorer.exe ->) (Valve Corp. -> Valve Corporation) C:\Program Files (x86)\Steam\steam.exe
+(Microsoft Corporation -> ) C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2604.5.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe <2>
+(Microsoft Corporation -> Microsoft Corporation) C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.80\msedgewebview2.exe <6>
+(Microsoft Corporation -> Windows (R) Win 7 DDK provider) C:\Program Files\Microsoft GameInput\x64\GameInputRedistService.exe
+(Microsoft Windows -> Microsoft Corporation) C:\Windows\System32\cmd.exe
+(Opera Norway AS -> Opera Software) C:\Users\leons\AppData\Local\Programs\Opera GX\opera.exe <35>
+(services.exe ->) (Advanced Micro Devices -> Advanced Micro Devices, Inc) C:\Windows\System32\DriverStore\FileRepository\amdppkg.inf_amd64_5fd171e24453b255\AmdPpkgSvc.exe
+(services.exe ->) (Advanced Micro Devices -> Advanced Micro Devices, Inc.) C:\Windows\System32\DriverStore\FileRepository\amdfendr.inf_amd64_bea53a1d416fbcfa\amdfendrsr.exe
+(services.exe ->) (Advanced Micro Devices -> AMD) C:\Windows\System32\DriverStore\FileRepository\u0201589.inf_amd64_b04b6e436fa20245\B026175\atiesrxx.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUS Inc.) C:\Program Files (x86)\ASUS\GameSDK Service\GameSDK.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> Asustek Computer Inc.) C:\Program Files (x86)\ASUS\AsusCertService\AsusCertService.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.) C:\Program Files (x86)\LightingService\LightingService.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.) C:\Program Files\ASUS\Armoury Crate Service\ArmouryCrate.Service.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTek COMPUTER INC.) C:\Program Files\ASUS\ROG Live Service\ROGLiveService.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.) C:\Windows\System32\ASUSACCI\ArmouryCrateControlInterface.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTek Computer Inc.) C:\Windows\System32\DriverStore\FileRepository\asusptpfilter.inf_amd64_1e467870260bcd2f\AsusPTPService.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.) C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\AsusAppService\AsusAppService.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.) C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSOptimization\AsusOptimization.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.) C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSSoftwareManager\AsusSoftwareManager.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.) C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSSwitch\AsusSwitch.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.) C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSSystemAnalysis\AsusSystemAnalysis.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTek COMPUTER INC.) C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSSystemDiagnosis\AsusSystemDiagnosis.exe
+(services.exe ->) (Even Balance, Inc. -> ) C:\Windows\System32\PnkBstrA.exe
+(services.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+(services.exe ->) (Microsoft Corporation -> Windows (R) Win 7 DDK provider) C:\Program Files\Microsoft GameInput\x64\GameInputRedistService.exe
+(services.exe ->) (Microsoft Windows Hardware Compatibility Publisher -> Realtek Semiconductor Corp.) C:\Windows\System32\DriverStore\FileRepository\rtkbtfilter.inf_amd64_899e279b64ed2cb5\RtkBtManServ.exe
+(services.exe ->) (Realtek Semiconductor Corp. -> Realtek Semiconductor) C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_9d3a92437ffb40b7\RtkAudUService64.exe
+(services.exe ->) (Valve Corp. -> Valve Corporation) C:\Program Files (x86)\Common Files\Steam\steamservice.exe
+(services.exe ->) (VoodooSoft, LLC -> VoodooSoft, LLC) C:\Program Files\DefenderUI\DefenderUIService.exe
+(sihost.exe ->) (24803D75-212C-471A-BC57-9EF86AB91435 -> ) C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2623.103.0_x64__cv1g1gvanyjgm\WhatsApp.Root.exe
+(sihost.exe ->) (Microsoft Corporation -> ) C:\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2503.28002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
+(svchost.exe ->) (38BC0208-0916-4E44-909B-E6832F47CDE7 -> ) C:\Program Files\WindowsApps\B9ECED6F.ArmouryCrate_6.1.13.0_x64__qmba6cd70vzyy\ArmouryCrate.exe
+(svchost.exe ->) (Advanced Micro Devices -> Advanced Micro Devices, Inc.) C:\Program Files\AMD\CNext\CNext\CPUMetricsServer.exe
+(svchost.exe ->) (Advanced Micro Devices -> Advanced Micro Devices, Inc.) C:\Windows\System32\DriverStore\FileRepository\u0201589.inf_amd64_b04b6e436fa20245\B026175\AMDADLXServ.exe
+(svchost.exe ->) (ASUSTeK COMPUTER INC. -> ASUS) C:\Program Files (x86)\ASUS\ArmouryDevice\dll\AcPowerNotification\AcPowerNotification.exe
+(svchost.exe ->) (ASUSTeK COMPUTER INC. -> ASUS) C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ArmourySocketServer\ArmourySocketServer.exe
+(svchost.exe ->) (ASUSTeK COMPUTER INC. -> ASUS) C:\Program Files\ASUS\ASUS Monitor Control\AsMonitorControl.exe
+(svchost.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.) C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+(svchost.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.) C:\Program Files\ASUS\ASUS Hotplug Controller\AsHotplugCtrl.exe
+(svchost.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files\Microsoft Office\root\Office16\SDXHelper.exe
+(svchost.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\Windows\System32\dllhost.exe <3>
+(svchost.exe ->) (ORYON TECH LIMITED -> Advanced Windows Manager) C:\Program Files (x86)\AW Manager\Windows Manager\AdvancedWindowsManager.exe <6>
+(svchost.exe ->) (Realtek Semiconductor Corp. -> Realtek Semiconductor) C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_9d3a92437ffb40b7\RtkAudUService64.exe <2>
+(Valve Corp. -> Valve Corporation) C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe <6>
+
+==================== Registro (Whitelisted) ===================
+
+HKLM-x32\...\Run: [REDRAGON EMPEROR Gaming Mouse] => C:\Program Files (x86)\REDRAGON EMPEROR Gaming Mouse\hid.exe [954880 2018-05-23] () [Arquivo não assinado]
+HKLM\...\Policies\Explorer: [SettingsPageVisibility] hide:cortana;holographic-audio;maps;pen;privacy-feedback;privacy-speechtyping;recovery;tabletmode;windowsdefender
+HKLM\...\Policies\Explorer: [HideSCAMeetNow] 1
+HKLM\SOFTWARE\Policies\Microsoft\Windows Defender: Restrição <==== ATENÇÃO
+HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate: Restrição <==== ATENÇÃO
+HKLM\Software\Policies\...\system: [EnableActivityFeed] 0
+HKLM\Software\Policies\...\system: [PublishUserActivities] 0
+HKLM\Software\Policies\...\system: [UploadUserActivities] 0
+HKU\S-1-5-19\...\RunOnce: [GlobalUserDisabled] => REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications" /v "GlobalUserDisabled" /t REG_DWORD /f /d 1 (Nenhum Arquivo) <==== ATENÇÃO
+HKU\S-1-5-19\...\RunOnce: [] => REG ADD "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /v "" /t REG_SZ /f /d "" (Nenhum Arquivo) <==== ATENÇÃO
+HKU\S-1-5-19\...\RunOnce: [AppsUseLightTheme] => REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v "AppsUseLightTheme" /t REG_DWORD /f /d 0 (Nenhum Arquivo) <==== ATENÇÃO
+HKU\S-1-5-19\...\RunOnce: [SystemUsesLightTheme] => REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v "SystemUsesLightTheme" /t REG_DWORD /f /d 0 (Nenhum Arquivo) <==== ATENÇÃO
+HKU\S-1-5-19\...\Policies\Explorer: [HideClock] 0
+HKU\S-1-5-19\...\Policies\Explorer: [DisableThumbnails] 0
+HKU\S-1-5-20\...\RunOnce: [GlobalUserDisabled] => REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications" /v "GlobalUserDisabled" /t REG_DWORD /f /d 1 (Nenhum Arquivo) <==== ATENÇÃO
+HKU\S-1-5-20\...\RunOnce: [] => REG ADD "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /v "" /t REG_SZ /f /d "" (Nenhum Arquivo) <==== ATENÇÃO
+HKU\S-1-5-20\...\RunOnce: [AppsUseLightTheme] => REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v "AppsUseLightTheme" /t REG_DWORD /f /d 0 (Nenhum Arquivo) <==== ATENÇÃO
+HKU\S-1-5-20\...\RunOnce: [SystemUsesLightTheme] => REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v "SystemUsesLightTheme" /t REG_DWORD /f /d 0 (Nenhum Arquivo) <==== ATENÇÃO
+HKU\S-1-5-20\...\Policies\Explorer: [HideClock] 0
+HKU\S-1-5-20\...\Policies\Explorer: [DisableThumbnails] 0
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Run: [OneDrive] => C:\Program Files\Microsoft OneDrive\OneDrive.exe [4751208 2026-06-20] (Microsoft Corporation -> Microsoft Corporation)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Run: [Opera GX Stable] => "C:\Users\leons\AppData\Local\Programs\Opera GX\opera.exe" --autostart [2980808 2026-06-22] (Opera Norway AS -> Opera Software)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Run: [Steam] => C:\Program Files (x86)\Steam\steam.exe [5776024 2026-06-09] (Valve Corp. -> Valve Corporation)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Run: [Battle.net] => C:\Program Files (x86)\Battle.net\Battle.net.exe [1008336 2026-06-19] (Blizzard Entertainment, Inc. -> Blizzard Entertainment)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Run: [RiotClient] => C:\Riot Games\Riot Client\RiotClientServices.exe [74832176 2025-08-04] (Riot Games, Inc. -> Riot Games, Inc.)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Run: [EADM] => C:\Program Files\Electronic Arts\EA Desktop\EA Desktop\EALauncher.exe [3345272 2026-06-23] (Electronic Arts, Inc. -> Electronic Arts)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Run: [CanvaAutoLaunchAvailabilityCheckAgent] => C:\Users\leons\AppData\Local\Programs\Canva\Canva.exe [201234304 2025-07-29] (Canva -> Canva Pty Ltd)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Run: [GalaxyClient] => [X]
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Run: [GogGalaxy] => C:\Program Files (x86)\GOG Galaxy\GalaxyClient.exe [14529360 2025-07-08] (GOG  sp. z o.o -> GOG.com)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Run: [Proton VPN] => C:\Program Files\Proton\VPN\ProtonVPN.Launcher.exe [18727808 2026-06-03] (Proton AG -> ProtonVPN)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Run: [Proton Drive] => C:\Users\leons\AppData\Local\Programs\Proton\Drive\ProtonDrive.exe [230623872 2026-02-11] (Proton AG -> Proton AG)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Run: [MicrosoftEdgeAutoLaunch_12C67B1DCFD801975163A8B73C98E926] => "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start [5304648 2026-06-17] (Microsoft Corporation -> Microsoft Corporation)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Run: [AMDNoiseSuppression] => C:\Windows\system32\AMD\ANR\AMDNoiseSuppression.exe [418344 2026-03-06] (Advanced Micro Devices -> Advanced Micro Devices, Inc.)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Run: [autogen] => C:\Users\leons\AppData\Local\Temp\is-WMXM0ZDCI4.tmp\eld3.exe [5902390 2026-06-22] () [Arquivo não assinado] <==== ATENÇÃO
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Policies\Explorer: [HideClock] 0
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1002\...\Policies\Explorer: [DisableThumbnails] 0
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1005\...\Run: [OneDrive] => C:\Program Files\Microsoft OneDrive\OneDrive.exe [4751208 2026-06-20] (Microsoft Corporation -> Microsoft Corporation)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1005\...\Run: [Proton VPN] => C:\Program Files\Proton\VPN\ProtonVPN.Launcher.exe [18727808 2026-06-03] (Proton AG -> ProtonVPN)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1005\...\Run: [MicrosoftEdgeAutoLaunch_21E0DDC444168F7C017C99E282799250] => "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start [5304648 2026-06-17] (Microsoft Corporation -> Microsoft Corporation)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1005\...\Policies\Explorer: [HideClock] 0
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1005\...\Policies\Explorer: [DisableThumbnails] 0
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1006\...\Run: [OneDrive] => C:\Program Files\Microsoft OneDrive\OneDrive.exe [4751208 2026-06-20] (Microsoft Corporation -> Microsoft Corporation)
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1006\...\Policies\Explorer: [HideClock] 0
+HKU\S-1-5-21-3997614696-2353931189-2345464812-1006\...\Policies\Explorer: [DisableThumbnails] 0
+HKU\S-1-5-18\...\Run: [AMDNoiseSuppression] => C:\Windows\system32\AMD\ANR\AMDNoiseSuppression.exe [418344 2026-03-06] (Advanced Micro Devices -> Advanced Micro Devices, Inc.)
+HKU\S-1-5-18\...\RunOnce: [GlobalUserDisabled] => REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications" /v "GlobalUserDisabled" /t REG_DWORD /f /d 1 (Nenhum Arquivo) <==== ATENÇÃO
+HKU\S-1-5-18\...\RunOnce: [] => REG ADD "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /v "" /t REG_SZ /f /d "" (Nenhum Arquivo) <==== ATENÇÃO
+HKU\S-1-5-18\...\RunOnce: [AppsUseLightTheme] => REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v "AppsUseLightTheme" /t REG_DWORD /f /d 0 (Nenhum Arquivo) <==== ATENÇÃO
+HKU\S-1-5-18\...\RunOnce: [SystemUsesLightTheme] => REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v "SystemUsesLightTheme" /t REG_DWORD /f /d 0 (Nenhum Arquivo) <==== ATENÇÃO
+HKU\S-1-5-18\...\RunOnce: [StartRSX] => C:\Program Files\AMD\CNext\CNext\LauncherRSXRuntime.exe [270608 2026-06-15] (Advanced Micro Devices -> Advanced Micro Devices, Inc.)
+HKU\S-1-5-18\...\Policies\Explorer: [HideClock] 0
+HKU\S-1-5-18\...\Policies\Explorer: [DisableThumbnails] 0
+HKLM\Software\Microsoft\Active Setup\Installed Components: [{8A69D345-D564-463c-AFF1-A69D9E530F96}] -> C:\Program Files\Google\Chrome\Application\149.0.7827.196\Installer\chrmstp.exe [7665304 2026-06-23] (Google LLC -> Google LLC)
+Startup: C:\Users\leons\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Enviar para o OneNote.lnk [2026-06-03]
+ShortcutTarget: Enviar para o OneNote.lnk -> C:\Program Files\Microsoft Office\root\Office16\ONENOTEM.EXE (Microsoft Corporation -> Microsoft Corporation)
+GroupPolicy: Restrição ? <==== ATENÇÃO
+Policies: C:\ProgramData\NTUSER.pol: Restrição <==== ATENÇÃO
+
+==================== Tarefas Agendadas (Whitelisted) =================
+
+(Se uma entrada for incluída na fixlist, será removida do Registro. O arquivo não será movido, a menos que seja colocado separadamente.)
+
+Task: {DCB50638-5D23-4712-9C50-18B3386B25EA} - System32\Tasks\AdvancedUpdater => C:\Program Files (x86)\AW Manager\Windows Manager\Windows Updater.exe [1807208 2025-04-17] (ORYON TECH LIMITED -> AdvancedWindowsManager) -> C:\Program Files (x86)\AW Manager\Windows Manager\\/silentall -nofreqcheck -nogui <==== ATENÇÃO
+Task: {4A877CBD-E4CD-4B11-B80F-0B4D3844D8FF} - System32\Tasks\AdvancedWindowsManager #1 => C:\Program Files (x86)\AW Manager\Windows Manager\AdvancedWindowsManager.exe [723816 2025-04-17] (ORYON TECH LIMITED -> Advanced Windows Manager) -> C:\Program Files (x86)\AW Manager\Windows Manager\\-v 125 <==== ATENÇÃO
+Task: {14B438C1-A38E-4DB6-8FC0-F50A813A8503} - System32\Tasks\AdvancedWindowsManager #2 => C:\Program Files (x86)\AW Manager\Windows Manager\AdvancedWindowsManager.exe [723816 2025-04-17] (ORYON TECH LIMITED -> Advanced Windows Manager) -> C:\Program Files (x86)\AW Manager\Windows Manager\\-v 126 <==== ATENÇÃO
+Task: {18789269-4D8E-4878-A70B-DE9689180839} - System32\Tasks\AdvancedWindowsManager #3 => C:\Program Files (x86)\AW Manager\Windows Manager\AdvancedWindowsManager.exe [723816 2025-04-17] (ORYON TECH LIMITED -> Advanced Windows Manager) -> C:\Program Files (x86)\AW Manager\Windows Manager\\-v 127 <==== ATENÇÃO
+Task: {0C294CA1-9565-4621-95B9-A33E33931A6F} - System32\Tasks\AdvancedWindowsManager #4 => C:\Program Files (x86)\AW Manager\Windows Manager\AdvancedWindowsManager.exe [723816 2025-04-17] (ORYON TECH LIMITED -> Advanced Windows Manager) -> C:\Program Files (x86)\AW Manager\Windows Manager\\-v 128 <==== ATENÇÃO
+Task: {DCD320E2-4F7F-4068-B389-F70729E0030E} - System32\Tasks\AdvancedWindowsManager #5 => C:\Program Files (x86)\AW Manager\Windows Manager\AdvancedWindowsManager.exe [723816 2025-04-17] (ORYON TECH LIMITED -> Advanced Windows Manager) -> C:\Program Files (x86)\AW Manager\Windows Manager\\-v 129 <==== ATENÇÃO
+Task: {EE5B1F44-B801-4324-A2C0-81DA84B337CA} - System32\Tasks\AdvancedWindowsManager #6 => C:\Program Files (x86)\AW Manager\Windows Manager\AdvancedWindowsManager.exe [723816 2025-04-17] (ORYON TECH LIMITED -> Advanced Windows Manager) -> C:\Program Files (x86)\AW Manager\Windows Manager\\-v 130 <==== ATENÇÃO
+Task: {CC205126-D5F7-4AA7-901D-97892BB00B3F} - System32\Tasks\AMD Install Manager - Check For Updates => C:\Program Files\AMD\AMDInstallManager\AMDInstallManager.exe [61254416 2026-06-15] (Advanced Micro Devices -> Advanced Micro Devices, Inc.) -> C:\Program Files\AMD\AMDInstallManager\\-CheckForUpdates
+Task: {9545B39B-5958-435F-B9E6-EAFEBAFC6EB3} - System32\Tasks\AMDAPSRegUpdate => C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe [420864 2021-06-05] (Microsoft Windows -> Microsoft Corporation) -> -NoProfile -ExecutionPolicy Bypass -File "C:\Program Files (x86)\AMD\Chipset_Software\Prerequisites\UpdateRegOwner.ps1"
+Task: {B4FF12FE-5C2D-4189-A0CD-301817680376} - System32\Tasks\AMDInstallLauncher => C:\Program Files\AMD\CIM\Bin64\InstallManagerApp.exe [1065744 2026-06-15] (Advanced Micro Devices -> Advanced Micro Devices, Inc.)
+Task: {C31CD790-3564-446A-9714-16CC42668819} - System32\Tasks\AMDRyzenMasterSDKTask => C:\Program Files\AMD\CNext\CNext\cpumetricsserver.exe [190216 2026-06-15] (Advanced Micro Devices -> Advanced Micro Devices, Inc.)
+Task: {659F74FE-4090-48B4-AE25-D953003AEA8F} - System32\Tasks\AMDScoSupportTypeUpdate => C:\Program Files\AMD\CIM\Bin64\InstallManagerApp.exe [1065744 2026-06-15] (Advanced Micro Devices -> Advanced Micro Devices, Inc.)
+Task: {ACE7F26D-31C7-4E6C-AB63-EF57386FD29E} - System32\Tasks\ASUS Hotplug Controller => C:\Program Files\ASUS\ASUS Hotplug Controller\AsHotplugCtrl.exe [208016 2024-04-08] (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.)
+Task: {D040C44D-5230-4347-98FB-6A72126E8F1F} - System32\Tasks\ASUS Monitor Control => C:\Program Files\ASUS\ASUS Monitor Control\AsMonitorControl.exe [616824 2024-05-20] (ASUSTeK COMPUTER INC. -> ASUS)
+Task: {49451929-D7EF-41AA-A9E5-059090686405} - System32\Tasks\ASUS Optimization 36D18D69AFC3 => C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSOptimization\AsusHotkey.exe [365104 2026-04-21] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+Task: {21869157-7B67-46E6-A90E-3F910C26CC65} - System32\Tasks\ASUS Update Checker 2.0 => C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSSoftwareManager\AsusUpdateChecker.exe [852528 2026-04-21] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+Task: {FA7A3FE0-22BB-4E58-8856-9602A50E07C0} - System32\Tasks\ASUS\AcPowerNotification => C:\Program Files (x86)\ASUS\ArmouryDevice\dll\AcPowerNotification\AcPowerNotification.exe [398176 2024-12-18] (ASUSTeK COMPUTER INC. -> ASUS)
+Task: {ED352FDE-88AF-4F42-AB21-1AA4D1E29EB4} - System32\Tasks\ASUS\ArmourySocketServer => C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ArmourySocketServer\ArmourySocketServer.exe [1772888 2024-12-18] (ASUSTeK COMPUTER INC. -> ASUS)
+Task: {9B9BB459-F32E-4049-88F4-7296A52A2DFF} - System32\Tasks\ASUS\ASUSUpdateTaskMachineCore1dba8e5c5972530 => C:\Program Files (x86)\ASUS\Update\AsusUpdate.exe [252760 2025-04-09] (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.)
+Task: {FA6AA113-841B-4486-B18A-FC333698C3F7} - System32\Tasks\ASUS\ASUSUpdateTaskMachineUA => C:\Program Files (x86)\ASUS\Update\AsusUpdate.exe [252760 2025-04-09] (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.)
+Task: {D3344A80-CA1B-4E9C-9CE0-151BA130CE46} - System32\Tasks\ASUS\Framework Service => C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe [152079704 2025-01-16] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+Task: {5104C576-9566-468F-B062-ECC24257DC81} - System32\Tasks\ASUS\P508PowerAgent_sdk => C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ShareFromArmouryIII\Mouse\ROG STRIX CARRY\P508PowerAgent.exe  (Nenhum Arquivo)
+Task: {F4717B88-84B7-439E-B490-B303DFC2D340} - System32\Tasks\AsusSystemAnalysis_754F3273-0563-4F20-B12F-826510B07474 => C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSSystemAnalysis\AsusSystemAnalysis.exe [5984808 2026-04-21] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+Task: {136EAABF-2A5E-4ED2-B628-AFDE88705916} - System32\Tasks\CreateExplorerShellUnelevatedTask => C:\Windows\explorer.exe [5092024 2023-03-02] (Microsoft Windows -> Microsoft Corporation)
+Task: {CF753D52-637F-4F12-A25F-438A88B03F3A} - System32\Tasks\Driver Booster Scheduler => C:\Program Files (x86)\IObit\Driver Booster\12.4.0\Scheduler.exe [193904 2025-03-07] (IObit CO., LTD -> IObit) <==== ATENÇÃO
+Task: {4EAC3BDE-F230-4620-B2E9-D6FC2F4AD37E} - System32\Tasks\Driver Booster SkipUAC (Cicero) => C:\Program Files (x86)\IObit\Driver Booster\12.4.0\DriverBooster.exe [8277344 2025-04-03] (IObit CO., LTD -> IObit) <==== ATENÇÃO
+Task: {6275216B-7230-4708-9ADF-CCD077A74C08} - System32\Tasks\Driver Booster Update => C:\Program Files (x86)\IObit\Driver Booster\12.4.0\AutoUpdate.exe [2454880 2025-04-03] (IObit CO., LTD -> IObit) <==== ATENÇÃO
+Task: {15FC8EDE-489B-4A66-8D9B-634CF3D89D27} - System32\Tasks\GoogleSystem\GoogleUpdater\GoogleUpdaterTaskSystem150.0.7863.0{A55F6D13-85C3-40AA-96E6-D1739C653127} => C:\Program Files (x86)\Google\GoogleUpdater\150.0.7863.0\updater.exe [8728216 2026-05-28] (Google LLC -> Google LLC)
+Task: {0D125DB9-0755-4709-8825-0A38313A17D4} - System32\Tasks\Microsoft\Office\Office Actions Server => C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\Office16\ActionsServer\ActionsServer.exe [16431408 2026-06-21] (Microsoft Corporation -> Microsoft Corporation)
+Task: {0A90C1A9-344F-4520-BD6D-76831DF11061} - System32\Tasks\Microsoft\Office\Office Automatic Updates 2.0 => C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe [28431248 2026-06-13] (Microsoft Corporation -> Microsoft Corporation)
+Task: {1A0E027D-A344-4090-A025-3A563CE2F404} - System32\Tasks\Microsoft\Office\Office Background Push Maintenance => C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonx64\Microsoft Shared\Office16\opushutil.exe [73568 2026-06-21] (Microsoft Corporation -> Microsoft Corporation)
+Task: {BE6D8531-4B99-40F0-B0D1-DE802C5BA357} - System32\Tasks\Microsoft\Office\Office ClickToRun Service Monitor => C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe [28431248 2026-06-13] (Microsoft Corporation -> Microsoft Corporation)
+Task: {AD9FFC62-6E75-41F4-A8A6-5A0FBD03D0AD} - System32\Tasks\Microsoft\Office\Office Feature Updates => C:\Program Files\Microsoft Office\root\Office16\sdxhelper.exe [427296 2026-06-21] (Microsoft Corporation -> Microsoft Corporation)
+Task: {FE603B99-6ED1-4C54-BEB6-DF086FDC917A} - System32\Tasks\Microsoft\Office\Office Feature Updates Logon => C:\Program Files\Microsoft Office\root\Office16\sdxhelper.exe [427296 2026-06-21] (Microsoft Corporation -> Microsoft Corporation)
+Task: {A228E7D5-1C7D-4BF1-8028-B2E6863CEB36} - System32\Tasks\Microsoft\Office\Office Performance Monitor => C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\Office16\operfmon.exe [1354600 2026-06-02] (Microsoft Corporation -> Microsoft Corporation)
+Task: {DE9189B6-5D1B-438C-B750-19ED84D57B21} - System32\Tasks\Microsoft\Office\Office Startup Maintenance => C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\Office16\ActionsServer\ActionsServer.exe [16431408 2026-06-21] (Microsoft Corporation -> Microsoft Corporation)
+Task: {8A97DDAE-68A1-4622-B1C5-B538641BC637} - System32\Tasks\Microsoft\Windows\RetailDemo\CleanupOfflineContent => {61f77d5e-afe9-400b-a5e6-e9e80fc8e601}
+Task: {AFB61EC2-74CC-48CB-A55D-B28C62E709C3} - System32\Tasks\ModifyLinkUpdate => C:\Program Files\AMD\CIM\Bin64\InstallManagerApp.exe [1065744 2026-06-15] (Advanced Micro Devices -> Advanced Micro Devices, Inc.)
+Task: {1174B85A-71BA-4B72-AD0D-2177B4FDD47B} - System32\Tasks\OneDrive Per-Machine Standalone Update Task => C:\Program Files\Microsoft OneDrive\OneDriveStandaloneUpdater.exe [4406632 2026-06-20] (Microsoft Corporation -> Microsoft Corporation)
+Task: {2BD14617-67C6-4D8F-A66F-B684060BC11E} - System32\Tasks\OneDrive Reporting Task-S-1-5-21-3997614696-2353931189-2345464812-1001 => C:\Program Files\Microsoft OneDrive\OneDriveStandaloneUpdater.exe [4406632 2026-06-20] (Microsoft Corporation -> Microsoft Corporation)
+Task: {44EEC3BE-A9F7-4CD9-9C95-60DE5DCA9178} - System32\Tasks\OneDrive Reporting Task-S-1-5-21-3997614696-2353931189-2345464812-1002 => C:\Program Files\Microsoft OneDrive\OneDriveStandaloneUpdater.exe [4406632 2026-06-20] (Microsoft Corporation -> Microsoft Corporation)
+Task: {8CB8DEE2-FD72-4B59-9E05-4C612EB3CC14} - System32\Tasks\OneDrive Reporting Task-S-1-5-21-3997614696-2353931189-2345464812-1005 => C:\Program Files\Microsoft OneDrive\OneDriveStandaloneUpdater.exe [4406632 2026-06-20] (Microsoft Corporation -> Microsoft Corporation)
+Task: {466CD749-C4D2-4B37-90CD-F5CBACC2CB08} - System32\Tasks\OneDrive Reporting Task-S-1-5-21-3997614696-2353931189-2345464812-1006 => C:\Program Files\Microsoft OneDrive\OneDriveStandaloneUpdater.exe [4406632 2026-06-20] (Microsoft Corporation -> Microsoft Corporation)
+Task: {65CE012C-377A-47EA-8F21-A9622C10B1CF} - System32\Tasks\OneDrive Startup Task-S-1-5-21-3997614696-2353931189-2345464812-1001 => C:\Program Files\Microsoft OneDrive\25.051.0317.0003\OneDriveLauncher.exe  /startInstances (Nenhum Arquivo)
+Task: {DEC496BA-81CA-478F-8940-EE4BB7191193} - System32\Tasks\OneDrive Startup Task-S-1-5-21-3997614696-2353931189-2345464812-1002 => C:\Program Files\Microsoft OneDrive\26.098.0524.0004\OneDriveLauncher.exe [760208 2026-06-20] (Microsoft Corporation -> Microsoft Corporation)
+Task: {CD51E9E1-4293-4CE4-9B30-4C8126356346} - System32\Tasks\OneDrive Startup Task-S-1-5-21-3997614696-2353931189-2345464812-1005 => C:\Program Files\Microsoft OneDrive\26.098.0524.0004\OneDriveLauncher.exe [760208 2026-06-20] (Microsoft Corporation -> Microsoft Corporation)
+Task: {AE9ECE1F-54C0-480A-A078-064C0A401F52} - System32\Tasks\Opera GX scheduled assistant Autoupdate 1745508917 => C:\Users\leons\AppData\Local\Programs\Opera GX\autoupdate\opera_autoupdate.exe [7636936 2026-06-17] (Opera Norway AS -> Opera Software) -> --scheduledtask --productiscomponent --installdir="C:\Users\leons\AppData\Local\Programs\Opera GX\assistant" --producttype=assistant $(Arg0)
+Task: {016EC661-56E0-4D3F-9FA9-94C56B56F007} - System32\Tasks\Opera GX scheduled Autoupdate 1744126391 => C:\Users\Cicero\AppData\Local\Programs\Opera GX\autoupdate\opera_autoupdate.exe  --scheduledtask --bypasslauncher $(Arg0) (Nenhum Arquivo)
+Task: {17925531-FF70-43FD-BF4A-123F02823F33} - System32\Tasks\Opera GX scheduled Autoupdate 1744472091 => C:\Users\leons\AppData\Local\Programs\Opera GX\autoupdate\opera_autoupdate.exe [7636936 2026-06-17] (Opera Norway AS -> Opera Software)
+Task: {BA00CFE0-6287-4939-93B5-DDD4E4CE15A8} - System32\Tasks\RtkAudUService64_BG => C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_9d3a92437ffb40b7\RtkAudUService64.exe [1994144 2023-11-30] (Realtek Semiconductor Corp. -> Realtek Semiconductor)
+Task: {18BDA635-C5D2-41C8-AC8C-8972719C7970} - System32\Tasks\StartCN => C:\Program Files\AMD\CNext\CNext\cncmd.exe [429840 2026-06-15] (Advanced Micro Devices -> Advanced Micro Devices, Inc.)
+Task: {2F3E8ADB-B20C-4E9A-9EDC-DC29E08EC40B} - System32\Tasks\StartDVR => C:\Program Files\AMD\CNext\CNext\RSServCmd.exe [319752 2026-06-15] (Advanced Micro Devices -> Advanced Micro Devices, Inc.)
+Task: {3930FF10-A243-474B-ABEB-CE37C6C4B0B2} - System32\Tasks\VivaldiUpdateCheck-7a744cc407bd6056 => C:\Users\leons\AppData\Local\Vivaldi\Application\update_notifier.exe [16534440 2026-06-17] (Vivaldi Technologies AS -> Vivaldi Technologies AS) -> C:\Users\leons\AppData\Local\Vivaldi\Application\--from-scheduler
+Task: {9930B30E-A19E-4615-B6D1-E02DDA46D3BA} - System32\Tasks\VS Revo Group\RevoHelperFreeStartup => C:\Program Files\VS Revo Group\Revo Uninstaller\RevoUninHelper.exe [4053672 2024-12-10] (VS REVO GROUP OOD -> VS Revo Group Ltd.)
+
+(Se uma entrada for incluída na fixlist, o arquivo da tarefa (.job) será movido. O arquivo que está sendo executado pela tarefa não será movido.)
+
+
+==================== Internet (Whitelisted) ====================
+
+(Se um ítem for incluído na fixlist, sendo um ítem do Registro, será removido ou restaurado para o padrão.)
+
+Tcpip\Parameters: [DhcpNameServer] 192.168.100.1
+Tcpip\..\Interfaces\{2aad0654-f7c6-4815-95f4-18e5234b2d5f}: [NameServer] 8.8.8.8,8.8.4.4
+Tcpip\..\Interfaces\{2aad0654-f7c6-4815-95f4-18e5234b2d5f}: [DhcpNameServer] 192.168.100.1
+Tcpip\..\Interfaces\{ea8374ea-3d38-42a1-9eba-5cf427520830}: [DhcpNameServer] 192.168.100.1
+Tcpip\..\Interfaces\{ea8374ea-3d38-42a1-9eba-5cf427520830}\051626C6F6D254D66696262716: [DhcpNameServer] 192.168.100.1
+Tcpip\..\Interfaces\{ea8374ea-3d38-42a1-9eba-5cf427520830}\05F4553514441482032392: [DhcpNameServer] 10.0.1.1
+Tcpip\..\Interfaces\{ea8374ea-3d38-42a1-9eba-5cf427520830}\25543454053414F4: [DhcpNameServer] 192.168.2.254
+Tcpip\..\Interfaces\{ea8374ea-3d38-42a1-9eba-5cf427520830}\4414C47454F4: [DhcpNameServer] 150.161.50.7 150.161.50.73 200.19.16.53
+Tcpip\..\Interfaces\{ea8374ea-3d38-42a1-9eba-5cf427520830}\4414C47454F4: [DhcpDomain] ufpe.br
+Tcpip\..\Interfaces\{ea8374ea-3d38-42a1-9eba-5cf427520830}\56465727F616D6: [DhcpNameServer] 150.161.50.91 150.161.50.7
+Tcpip\..\Interfaces\{ea8374ea-3d38-42a1-9eba-5cf427520830}\56465727F616D6: [DhcpDomain] ufpe.br
+Tcpip\..\Interfaces\{ea8374ea-3d38-42a1-9eba-5cf427520830}\6414D494C49414F505F425649425F4F55374F50323: [DhcpNameServer] 192.168.0.1
+Tcpip\..\Interfaces\{ea8374ea-3d38-42a1-9eba-5cf427520830}\6414D494C49414F505F425649425F4F55374F50323: [DhcpDomain] Dlink
+Tcpip\..\Interfaces\{ea8374ea-3d38-42a1-9eba-5cf427520830}\749474144414E494F5537486A7: [DhcpNameServer] 192.168.100.1
+Tcpip\..\Interfaces\{ea8374ea-3d38-42a1-9eba-5cf427520830}\84F6D656: [DhcpNameServer] 192.168.1.1
+Tcpip\..\Interfaces\{ea8374ea-3d38-42a1-9eba-5cf427520830}\84F6D65623: [DhcpNameServer] 192.168.1.1
+Tcpip\..\Interfaces\{ea8374ea-3d38-42a1-9eba-5cf427520830}\D414E4355525F53525E454456494242514: [DhcpNameServer] 8.8.8.8 1.1.1.1
+Tcpip\..\Interfaces\{edc6ba26-3c34-4efe-afea-47af56ed9c94}: [DhcpNameServer] 10.241.221.98
+HKLM\SOFTWARE\Policies\Microsoft\Internet Explorer: Restrição <==== ATENÇÃO
+
+FireFox:
+========
+FF Plugin: @microsoft.com/SharePoint,version=14.0 -> C:\Program Files\Microsoft Office\root\Office16\NPSPWRAP.DLL [2026-01-25] (Microsoft Corporation -> Microsoft Corporation)
+FF Plugin-x32: @esn.me/esnsonar,version=0.70.4 -> C:\Program Files (x86)\Battlelog Web Plugins\Sonar\0.70.4\npesnsonar.dll [2011-11-03] (Electronic Sports Network i Sverige AB -> ESN Social Software AB)
+FF Plugin-x32: @esn/esnlaunch,version=2.3.0 -> C:\Program Files (x86)\Battlelog Web Plugins\2.3.0\npesnlaunch.dll [2013-09-16] (ESN Social Software AB) [Arquivo não assinado]
+FF Plugin-x32: @microsoft.com/SharePoint,version=14.0 -> C:\Program Files\Microsoft Office\root\VFS\ProgramFilesX86\Microsoft Office\Office16\NPSPWRAP.DLL [2025-12-06] (Microsoft Corporation -> Microsoft Corporation)
+
+Edge: 
+=======
+Edge Profile: C:\Users\leons\AppData\Local\Microsoft\Edge\User Data\Default [2026-06-23]
+Edge Extension: (Google Docs off-line) - C:\Users\leons\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\ghbmnnjooekpmoecnnnilnnbdlolhkhi [2026-06-07]
+Edge Extension: (Edge relevant text changes) - C:\Users\leons\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\jmjflgjpcpepeafmmgdpfkogkghcpiha [2025-05-14]
+
+Chrome: 
+=======
+CHR Profile: C:\Users\leons\AppData\Local\Google\Chrome\User Data\Default [2026-06-22]
+CHR DefaultSearchURL: Default -> hxxps://mqsearch.com/search.php?q={searchTerms}&a=rTgyxgWk
+CHR DefaultSearchKeyword: Default -> yahoo.com
+CHR DefaultSuggestURL: Default -> hxxps://search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas_sfp&command={searchTerms}
+CHR Extension: (McAfee® WebAdvisor) - C:\Users\leons\AppData\Local\Google\Chrome\User Data\Default\Extensions\fheoggkfdfchfphceeifdbepaooicaho [2025-04-12]
+CHR Extension: (Documentos Google off-line) - C:\Users\leons\AppData\Local\Google\Chrome\User Data\Default\Extensions\ghbmnnjooekpmoecnnnilnnbdlolhkhi [2025-04-12]
+CHR Extension: (Pagamentos da Chrome Web Store) - C:\Users\leons\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda [2025-04-12]
+CHR Extension: (Google Translate) - C:\ProgramData\DocsHelper\docro [2026-06-22] [UpdateUrl:hxxps://vendralo.info/extensionInstaller/updateChromeExtension] <==== ATENÇÃO
+CHR HKLM\...\Chrome\Extension: [fheoggkfdfchfphceeifdbepaooicaho]
+CHR HKLM-x32\...\Chrome\Extension: [fheoggkfdfchfphceeifdbepaooicaho]
+
+Opera: 
+=======
+StartMenuInternet: (HKU\S-1-5-21-3997614696-2353931189-2345464812-1002) Opera GXStable - "C:\Users\leons\AppData\Local\Programs\Opera GX\opera.exe"
+
+Vivaldi: 
+=======
+VIV DefaultProfile: Default
+VIV Profile: C:\Users\leons\AppData\Local\Vivaldi\User Data\Default [2026-06-19]
+VIV DefaultSearchKeyword: Default -> g
+VIV DefaultSuggestURL: Default -> hxxps://www.google.com/complete/search?client=chrome&q={searchTerms}
+VIV Extension: (McAfee® WebAdvisor) - C:\Users\leons\AppData\Local\Vivaldi\User Data\Default\Extensions\fheoggkfdfchfphceeifdbepaooicaho [2026-06-05]
+VIV Extension: (Sem Nome) - C:\Users\leons\AppData\Local\Vivaldi\User Data\Default\Extensions\jplgfhpmjnbigmhklmmbgecoobifkmpa [2026-06-19] [UpdateUrl:0] <==== ATENÇÃO
+VIV Extension: (Coupert - Encontre Cupons e Cashback) - C:\Users\leons\AppData\Local\Vivaldi\User Data\Default\Extensions\mfidniedemcgceagapgdekdbmanojomk [2026-06-19] [UpdateUrl:0] <==== ATENÇÃO
+VIV Profile: C:\Users\leons\AppData\Local\Vivaldi\User Data\Guest Profile [2025-09-08]
+StartMenuInternet: (HKU\S-1-5-21-3997614696-2353931189-2345464812-1002) Vivaldi.H3F4GEDUKBBTOUVSEZHB4UDTHA - "C:\Users\leons\AppData\Local\Vivaldi\Application\vivaldi.exe"
+
+==================== Serviços (Whitelisted) ===================
+
+(Se uma entrada for incluída na fixlist, será removida do Registro. O arquivo não será movido, a menos que seja colocado separadamente.)
+
+R2 AmdPpkgSvc; C:\Windows\System32\DriverStore\FileRepository\amdppkg.inf_amd64_5fd171e24453b255\AmdPpkgSvc.exe [515472 2026-02-24] (Advanced Micro Devices -> Advanced Micro Devices, Inc)
+R2 ArmouryCrateControlInterface; C:\Windows\System32\ASUSACCI\ArmouryCrateControlInterface.exe [524952 2024-09-29] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+R2 ArmouryCrateService; C:\Program Files\ASUS\Armoury Crate Service\ArmouryCrate.Service.exe [419368 2025-07-03] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+S2 asus; C:\Program Files (x86)\ASUS\Update\AsusUpdate.exe [252760 2025-04-09] (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.)
+R2 AsusAppService; C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\AsusAppService\AsusAppService.exe [1163824 2026-04-21] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+R2 AsusCertService; C:\Program Files (x86)\ASUS\AsusCertService\AsusCertService.exe [503144 2024-09-25] (ASUSTeK COMPUTER INC. -> Asustek Computer Inc.)
+S3 asusm; C:\Program Files (x86)\ASUS\Update\AsusUpdate.exe [252760 2025-04-09] (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.)
+R2 ASUSOptimization; C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSOptimization\AsusOptimization.exe [654384 2026-04-21] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+R2 AsusPTPService; C:\Windows\System32\DriverStore\FileRepository\asusptpfilter.inf_amd64_1e467870260bcd2f\AsusPTPService.exe [229840 2024-09-03] (ASUSTeK COMPUTER INC. -> ASUSTek Computer Inc.)
+S2 AsusROGLSLService; C:\Program Files (x86)\ASUS\AsusROGLSLService\AsusROGLSLService.exe [682840 2025-04-17] (ASUSTeK COMPUTER INC. -> ASUS)
+R2 ASUSSoftwareManager; C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSSoftwareManager\AsusSoftwareManager.exe [1422384 2026-04-21] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+R2 ASUSSwitch; C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSSwitch\AsusSwitch.exe [653872 2026-04-21] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+R2 ASUSSystemAnalysis; C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSSystemAnalysis\AsusSystemAnalysis.exe [5984808 2026-04-21] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+R2 ASUSSystemDiagnosis; C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSSystemDiagnosis\AsusSystemDiagnosis.exe [1305648 2026-04-21] (ASUSTeK COMPUTER INC. -> ASUSTek COMPUTER INC.)
+S3 battlenet_helpersvc; C:\ProgramData\Battle.net_components\battlenet_helpersvc\AgentHelper.exe [3642064 2026-06-23] (Blizzard Entertainment, Inc. -> Blizzard Entertainment)
+S3 BEService; C:\Program Files (x86)\Common Files\BattlEye\BEService.exe [20285608 2025-06-13] (BattlEye Innovations e.K. -> )
+R2 ClickToRunSvc; C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe [13381008 2026-06-13] (Microsoft Corporation -> Microsoft Corporation)
+R2 DefenderUIService; C:\Program Files\DefenderUI\DefenderUIService.exe [343272 2026-06-04] (VoodooSoft, LLC -> VoodooSoft, LLC)
+S3 EAAntiCheatService; C:\Program Files\EA\AC\eaanticheat.gameservice.exe [164816120 2026-06-10] (Electronic Arts, Inc. -> Electronic Arts)
+S3 EABackgroundService; C:\Program Files\Electronic Arts\EA Desktop\EA Desktop\EABackgroundService.exe [18063224 2026-06-23] (Electronic Arts, Inc. -> Electronic Arts)
+S3 FileSyncHelper; C:\Program Files\Microsoft OneDrive\26.098.0524.0004\FileSyncHelper.exe [3613032 2026-06-20] (Microsoft Corporation -> Microsoft Corporation)
+S3 GalaxyClientService; \\?\C:\Program Files (x86)\GOG Galaxy\GalaxyClientService.exe [2423632 2025-07-08] (GOG  sp. z o.o -> GOG.com)
+S3 GalaxyCommunication; C:\ProgramData\GOG.com\Galaxy\redists\GalaxyCommunication.exe [7654224 2025-07-08] (GOG  sp. z o.o -> GOG.com)
+R2 GameInputRedistService; C:\Program Files\Microsoft GameInput\x64\GameInputRedistService.exe [401792 2026-05-15] (Microsoft Corporation -> Windows (R) Win 7 DDK provider)
+R2 GameSDK Service; C:\Program Files (x86)\ASUS\GameSDK Service\GameSDK.exe [397544 2022-05-31] (ASUSTeK COMPUTER INC. -> ASUS Inc.)
+R2 LightingService; C:\Program Files (x86)\LightingService\LightingService.exe [5049184 2024-12-25] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+S3 OneDrive Updater Service; C:\Program Files\Microsoft OneDrive\26.098.0524.0004\OneDriveUpdaterService.exe [4023696 2026-06-20] (Microsoft Corporation -> Microsoft Corporation)
+R2 PnkBstrA; C:\Windows\system32\PnkBstrA.exe [76152 2025-08-23] (Even Balance, Inc. -> )
+S3 ProtonVPN Service; C:\Program Files\Proton\VPN\v4.4.1\ProtonVPNService.exe [477424 2026-06-03] (Proton AG -> ProtonVPN)
+S3 ProtonVPN WireGuard; C:\Program Files\Proton\VPN\v4.4.1\ProtonVPN.WireGuardService.exe [476912 2026-06-03] (Proton AG -> ProtonVPN)
+S3 Rockstar Service; C:\Program Files\Rockstar Games\Launcher\RockstarService.exe [1523832 2026-06-01] (Rockstar Games, Inc. -> Rockstar Games)
+R2 ROG Live Service; C:\Program Files\ASUS\ROG Live Service\ROGLiveService.exe [2769512 2026-01-14] (ASUSTeK COMPUTER INC. -> ASUSTek COMPUTER INC.)
+R2 RtkBtManServ; C:\Windows\System32\DriverStore\FileRepository\rtkbtfilter.inf_amd64_899e279b64ed2cb5\RtkBtManServ.exe [290192 2025-07-04] (Microsoft Windows Hardware Compatibility Publisher -> Realtek Semiconductor Corp.)
+S2 Warsaw Technology; "C:\Program Files\Topaz OFD\Warsaw\core.exe" (Nenhum Arquivo)
+
+===================== Drivers (Whitelisted) ===================
+
+(Se uma entrada for incluída na fixlist, será removida do Registro. O arquivo não será movido, a menos que seja colocado separadamente.)
+
+R3 amdfendrmgr; C:\Windows\System32\DriverStore\FileRepository\amdfendr.inf_amd64_bea53a1d416fbcfa\amdfendrmgr.sys [37272 2026-02-25] (Advanced Micro Devices -> Advanced Micro Devices, Inc.)
+R3 AmdPpkg; C:\Windows\System32\DriverStore\FileRepository\amdppkg.inf_amd64_5fd171e24453b255\AmdPpkg.sys [35224 2026-02-24] (Advanced Micro Devices -> Advanced Micro Devices)
+R2 AMDRyzenMasterDriverV31; C:\Windows\system32\AMDRyzenMasterDriver.sys [61832 2026-06-15] (Advanced Micro Devices -> Advanced Micro Devices)
+R3 AMDSAFD; C:\Windows\System32\DriverStore\FileRepository\amdsafd.inf_amd64_d4de13a10f2586d0\amdsafd.sys [119192 2026-03-18] (Advanced Micro Devices -> Advanced Micro Devices)
+R3 amduw23g-201588-df09ebb6; C:\Windows\System32\DriverStore\FileRepository\u0201588.inf_amd64_18d847f3215007c5\B026184\amdkmdag.sys [102516240 2026-06-19] (Advanced Micro Devices -> Advanced Micro Devices, Inc.)
+R3 amduw23g-201589-27e53637; C:\Windows\System32\DriverStore\FileRepository\u0201589.inf_amd64_b04b6e436fa20245\B026175\amdkmdag.sys [84134416 2026-06-20] (Advanced Micro Devices -> Advanced Micro Devices, Inc.)
+R3 AMDXE; C:\Windows\System32\drivers\amdxe.sys [64920 2026-03-18] (Advanced Micro Devices -> Advanced Micro Devices, Inc.)
+R1 Asusgio3; C:\Windows\system32\drivers\AsIO3.sys [58936 2024-09-25] (ASUSTeK COMPUTER INC. -> Asustek Computer Inc.)
+R3 AsusPTPDrv; C:\Windows\System32\DriverStore\FileRepository\asusptpfilter.inf_amd64_1e467870260bcd2f\AsusPTPFilter.sys [199632 2024-09-03] (ASUSTeK COMPUTER INC. -> ASUSTek COMPUTER INC.)
+R3 AsusSAIO; C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSSystemAnalysis\AsusSAIO.sys [51296 2026-04-21] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+R1 ATKWMIACPIIO; C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_3eb06da3aad59dcc\ASUSOptimization\AsusWmiAcpi.sys [50952 2026-04-21] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+S3 BTWDPAN; C:\Windows\System32\drivers\btwdpan.sys [84008 2025-04-08] (Broadcom Corporation -> Broadcom Corporation.)
+S0 FlashBoot; C:\Windows\System32\drivers\FlashBoot.sys [17616 2025-04-08] (Challenger Backup Solutions, LLC -> Challenger Backup Solutions, LLC)
+R0 fse; C:\Windows\System32\drivers\fse.sys [193888 2023-03-02] (Microsoft Windows -> Microsoft Corporation)
+R0 LPCFilter; C:\Windows\System32\drivers\LPCFilter.sys [30312 2025-04-08] (BYD precision manufacture company -> Windows (R) Win 7 DDK provider)
+R0 nvme; C:\Windows\System32\drivers\nvme.sys [96360 2025-04-08] (Phison Electronics Corporation -> Windows (R) Win 7 DDK provider)
+R0 pcifilter; C:\Windows\System32\drivers\amdusb4pcifilter.sys [37496 2025-04-08] (Advanced Micro Devices Inc. -> Advanced Micro Devices, Inc)
+R3 PRHidDrv; C:\Windows\System32\DriverStore\FileRepository\prhiddrv.inf_amd64_5754e4e01f35b19f\PRHidDrv.sys [217048 2024-05-01] (Parade Technologies, Inc -> Parade Technologies, Ltd.)
+S3 ProtonVPNCallout; C:\Program Files\Proton\VPN\v4.4.1\Resources\ProtonVPN.CalloutDriver.sys [41416 2026-04-30] (Proton AG -> Proton AG)
+R3 PRSpbDrv; C:\Windows\System32\drivers\PRSpbDrv.sys [72792 2024-05-01] (Parade Technologies, Inc -> Parade Technologies, Ltd.)
+S3 RevoProcessDetector; C:\Windows\System32\DRIVERS\RevoProcessDetector.sys [19504 2024-03-28] (Microsoft Windows Hardware Compatibility Publisher -> VS Revo Group)
+S3 rt68cx21; C:\Windows\System32\DriverStore\FileRepository\rt68cx21x64.inf_amd64_233a3250149123a4\rt68cx21x64.sys [889824 2025-04-08] (Realtek Semiconductor Corp. -> Realtek)
+S3 rtcx21; C:\Windows\System32\DriverStore\FileRepository\rtcx21x64.inf_amd64_d2a498d51a4f7bec\rtcx21x64.sys [409000 2021-06-01] (Realtek Semiconductor Corp. -> Realtek)
+R3 RtkBtFilter2; C:\Windows\System32\DriverStore\FileRepository\rtkbtfilter.inf_amd64_899e279b64ed2cb5\RtkBtFilter2.sys [209640 2025-07-04] (Microsoft Windows Hardware Compatibility Publisher -> Realtek Semiconductor Corporation)
+S3 RvNetMP60; C:\Windows\System32\drivers\RvNetMP60.sys [58288 2023-07-11] (Microsoft Windows Hardware Compatibility Publisher -> Famatech Corp.)
+S3 VBoxNetAdp; C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys [249376 2026-04-18] (Oracle America, Inc. -> Oracle and/or its affiliates)
+R1 veracrypt; C:\Windows\System32\drivers\veracrypt.sys [667840 2026-06-13] (Microsoft Windows Hardware Compatibility Publisher -> AM Crypto)
+S3 VirtualMic; C:\Windows\System32\drivers\VirtualMic.sys [50232 2025-10-10] (Microsoft Windows Hardware Compatibility Publisher -> )
+S3 vmbusproxy; C:\Windows\system32\drivers\vmbusproxy.sys [90112 2021-06-05] (Microsoft Windows -> )
+S3 wintun; C:\Windows\System32\drivers\wintun.sys [29592 2026-04-02] (Microsoft Windows Hardware Compatibility Publisher -> WireGuard LLC)
+S3 WireGuard; C:\Windows\System32\drivers\wireguard.sys [489368 2026-02-21] (Microsoft Windows Hardware Compatibility Publisher -> WireGuard LLC)
+R3 WOVAD; C:\Windows\System32\drivers\womic.sys [51192 2022-01-14] (Microsoft Windows Hardware Compatibility Publisher -> Windows (R) Win 7 DDK provider)
+S3 ace-game-0; \SystemRoot\System32\drivers\ace-game-0.sys (Nenhum Arquivo)
+S3 ACE-SSC-DRV64; \??\C:\Program Files\AntiCheatExpert\SGuard\x64\plugins\ACE-SSC-DRV64.sys (Nenhum Arquivo)
+S4 amduw23g-201163-242f9a0a; \SystemRoot\System32\DriverStore\FileRepository\u0201163.inf_amd64_5a3558962e78d523\B026079\amdkmdag.sys (Nenhum Arquivo)
+S4 amduw23g-201164-5cff9b1c; \SystemRoot\System32\DriverStore\FileRepository\u0201164.inf_amd64_56e26dabda1a22f9\B026083\amdkmdag.sys (Nenhum Arquivo)
+S3 cpuz154; \??\C:\Windows\temp\cpuz154\cpuz154_x64.sys (Nenhum Arquivo) <==== ATENÇÃO
+U4 dcpsvc; não ImagePath
+U4 DiagTrack; não ImagePath
+S3 EAAntiCheat; system32\drivers\eaanticheat.sys (Nenhum Arquivo)
+
+==================== SvcHost (Whitelisted) ===================
+
+(Se uma entrada for incluída na fixlist, será removida do Registro. O arquivo não será movido, a menos que seja colocado separadamente.)
+
+
+==================== Um mês (criados) (Whitelisted) =========
+
+(Se uma entrada for incluída na fixlist, o arquivo/pasta será movido.)
+
+2026-06-23 20:32 - 2026-06-23 20:33 - 000000000 ____D C:\FRST
+2026-06-23 20:24 - 2026-06-23 20:24 - 000000000 ____D C:\SecurityCheck
+2026-06-23 20:23 - 2026-06-23 20:32 - 000000000 ____D C:\Users\leons\Documents\segurança
+2026-06-23 20:20 - 2026-06-23 20:20 - 025267841 _____ C:\Users\leons\Downloads\Microsoft_Defender_V102.2503.28002.0.msix
+2026-06-23 20:17 - 2026-06-23 20:17 - 000000885 _____ C:\Users\Public\Desktop\DefenderUI.lnk
+2026-06-23 20:17 - 2026-06-23 20:17 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\DefenderUI
+2026-06-23 20:17 - 2026-06-23 20:17 - 000000000 ____D C:\Program Files\DefenderUI
+2026-06-23 20:06 - 2026-06-23 20:06 - 000002352 _____ C:\Users\leons\Desktop\DuckDuckGo.lnk
+2026-06-23 14:26 - 2026-06-23 19:31 - 000003116 _____ C:\Windows\system32\Tasks\AMDInstallLauncher
+2026-06-23 14:25 - 2026-06-23 14:25 - 000003518 _____ C:\Windows\system32\Tasks\AMDScoSupportTypeUpdate
+2026-06-23 14:25 - 2026-06-23 14:25 - 000003484 _____ C:\Windows\system32\Tasks\ModifyLinkUpdate
+2026-06-23 14:25 - 2026-06-23 14:25 - 000003074 _____ C:\Windows\system32\Tasks\StartDVR
+2026-06-23 14:25 - 2026-06-23 14:25 - 000002622 _____ C:\Windows\system32\Tasks\AMDRyzenMasterSDKTask
+2026-06-23 14:25 - 2026-06-23 14:25 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\AMD Bug Report Tool
+2026-06-23 14:24 - 2026-06-23 14:24 - 000003154 _____ C:\Windows\system32\Tasks\StartCN
+2026-06-23 14:23 - 2026-06-23 14:23 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\AMDInstallManager
+2026-06-23 14:10 - 2026-06-20 05:10 - 000641040 _____ C:\Windows\system32\GameManager64.dll
+2026-06-23 14:10 - 2026-06-20 05:10 - 000531984 _____ C:\Windows\system32\EEURestart.exe
+2026-06-23 14:10 - 2026-06-20 05:10 - 000488976 _____ C:\Windows\SysWOW64\GameManager32.dll
+2026-06-23 14:10 - 2026-06-19 19:18 - 000787984 _____ C:\Windows\system32\hiprt0200064.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 005224968 _____ (Advanced Micro Devices, Inc.) C:\Windows\system32\amdadlx64.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 004801032 _____ (Advanced Micro Devices, Inc.) C:\Windows\SysWOW64\amdadlx32.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 003093512 _____ C:\Windows\system32\vulkaninfo-1-999-0-0-0.exe
+2026-06-23 14:09 - 2026-06-20 05:10 - 003093512 _____ C:\Windows\system32\vulkaninfo.exe
+2026-06-23 14:09 - 2026-06-20 05:10 - 002637328 _____ C:\Windows\SysWOW64\vulkaninfo-1-999-0-0-0.exe
+2026-06-23 14:09 - 2026-06-20 05:10 - 002637328 _____ C:\Windows\SysWOW64\vulkaninfo.exe
+2026-06-23 14:09 - 2026-06-20 05:10 - 002508304 _____ (Advanced Micro Devices, Inc.) C:\Windows\system32\atiadlxx.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 002062352 _____ (Advanced Micro Devices, Inc.) C:\Windows\SysWOW64\atiadlxy.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 002062352 _____ (Advanced Micro Devices, Inc.) C:\Windows\SysWOW64\atiadlxx.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 001724592 _____ (AMD) C:\Windows\system32\amf-mft-mjpeg-decoder64.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 001334288 _____ (Advanced Micro Devices, Inc.) C:\Windows\system32\amdsasrv64.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 001184784 _____ (Advanced Micro Devices, Inc.) C:\Windows\system32\amdlvr64.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 001067536 _____ (AMD) C:\Windows\system32\atieclxx.exe
+2026-06-23 14:09 - 2026-06-20 05:10 - 000998416 _____ (Advanced Micro Devices, Inc.) C:\Windows\SysWOW64\amdlvr32.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 000801808 _____ (Advanced Micro Devices, Inc.) C:\Windows\system32\Rapidfire64.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 000678928 _____ (Advanced Micro Devices, Inc.) C:\Windows\SysWOW64\Rapidfire.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 000597520 _____ C:\Windows\system32\amdgfxinfo64.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 000565264 _____ C:\Windows\system32\atieah64.exe
+2026-06-23 14:09 - 2026-06-20 05:10 - 000554000 _____ C:\Windows\system32\dgtrayicon.exe
+2026-06-23 14:09 - 2026-06-20 05:10 - 000552968 _____ (Advanced Micro Devices, Inc.) C:\Windows\SysWOW64\amdsacli32.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 000473608 _____ (Advanced Micro Devices, Inc.) C:\Windows\system32\atidemgy.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 000471568 _____ C:\Windows\system32\amdlogum.exe
+2026-06-23 14:09 - 2026-06-20 05:10 - 000457224 _____ C:\Windows\SysWOW64\amdgfxinfo32.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 000429576 _____ C:\Windows\SysWOW64\atieah32.exe
+2026-06-23 14:09 - 2026-06-20 05:10 - 000200720 _____ (AMD) C:\Windows\system32\atimuixx.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 000187912 _____ (Advanced Micro Devices, Inc. ) C:\Windows\system32\atisamu64.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 000160784 _____ (Advanced Micro Devices, Inc.) C:\Windows\system32\amfrt64.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 000156840 _____ (Advanced Micro Devices, Inc. ) C:\Windows\system32\atimpc64.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 000152080 _____ (Advanced Micro Devices, Inc. ) C:\Windows\SysWOW64\atisamu32.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 000132864 _____ (Advanced Micro Devices, Inc. ) C:\Windows\SysWOW64\atimpc32.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 000129552 _____ (Advanced Micro Devices, Inc.) C:\Windows\SysWOW64\amfrt32.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 000051728 _____ (Advanced Micro Devices, Inc.) C:\Windows\system32\RapidFireServer64.dll
+2026-06-23 14:09 - 2026-06-20 05:10 - 000048648 _____ (Advanced Micro Devices, Inc.) C:\Windows\SysWOW64\RapidFireServer.dll
+2026-06-23 14:09 - 2026-06-20 05:09 - 121180688 _____ C:\Windows\system32\amd_comgr_2.dll
+2026-06-23 14:09 - 2026-06-20 05:09 - 001402048 _____ (AMD) C:\Windows\SysWOW64\amf-mft-mjpeg-decoder32.dll
+2026-06-23 14:09 - 2026-06-20 05:09 - 000620512 _____ (Advanced Micro Devices, Inc.) C:\Windows\system32\amdsacli64.dll
+2026-06-23 14:09 - 2026-06-20 05:09 - 000356880 _____ C:\Windows\system32\clinfo.exe
+2026-06-23 14:09 - 2026-06-20 05:09 - 000244752 _____ (Khronos Group) C:\Windows\system32\OpenCL.dll
+2026-06-23 14:09 - 2026-06-20 05:09 - 000214032 _____ (Khronos Group) C:\Windows\SysWOW64\OpenCL.dll
+2026-06-23 14:09 - 2026-06-20 05:09 - 000180240 _____ (Advanced Micro Devices) C:\Windows\system32\amdmiracast.dll
+2026-06-23 14:09 - 2026-06-20 05:09 - 000177168 _____ (Advanced Micro Devices, Inc. ) C:\Windows\system32\amdmmcl6.dll
+2026-06-23 14:09 - 2026-06-20 05:09 - 000167160 _____ (Advanced Micro Devices, Inc. ) C:\Windows\system32\amdave64.dll
+2026-06-23 14:09 - 2026-06-20 05:09 - 000156840 _____ (Advanced Micro Devices, Inc. ) C:\Windows\system32\amdpcom64.dll
+2026-06-23 14:09 - 2026-06-20 05:09 - 000146832 _____ (Advanced Micro Devices, Inc. ) C:\Windows\SysWOW64\amdave32.dll
+2026-06-23 14:09 - 2026-06-20 05:09 - 000145928 _____ (Advanced Micro Devices, Inc. ) C:\Windows\system32\amdmmcl.dll
+2026-06-23 14:09 - 2026-06-20 05:09 - 000141632 _____ (Advanced Micro Devices, Inc. ) C:\Windows\system32\amdxc64.dll
+2026-06-23 14:09 - 2026-06-20 05:09 - 000132856 _____ (Advanced Micro Devices, Inc. ) C:\Windows\SysWOW64\amdpcom32.dll
+2026-06-23 14:09 - 2026-06-20 05:09 - 000121816 _____ (Advanced Micro Devices, Inc. ) C:\Windows\SysWOW64\amdxc32.dll
+2026-06-23 14:08 - 2026-06-20 04:44 - 122155464 _____ C:\Windows\system32\amdxc64.so
+2026-06-23 00:00 - 2026-06-23 00:00 - 000000000 ____D C:\ProgramData\AdvancedWindowsManager
+2026-06-22 20:43 - 2026-06-22 20:43 - 000000000 ____D C:\Users\leon8\AppData\Local\PlaceholderTileLogoFolder
+2026-06-22 18:44 - 2026-06-22 18:44 - 000003596 _____ C:\Windows\system32\Tasks\OneDrive Reporting Task-S-1-5-21-3997614696-2353931189-2345464812-1006
+2026-06-22 18:44 - 2026-06-22 18:44 - 000000000 ____D C:\Users\leon8\AppData\Local\comgr
+2026-06-22 18:43 - 2026-06-23 02:19 - 000000000 ____D C:\Users\leon8\AppData\Roaming\asus_framework
+2026-06-22 18:43 - 2026-06-22 20:43 - 000000000 ____D C:\Users\leon8\AppData\Local\Packages
+2026-06-22 18:43 - 2026-06-22 18:44 - 000000000 ____D C:\Users\leon8\AppData\Roaming\Microsoft\Spelling
+2026-06-22 18:43 - 2026-06-22 18:44 - 000000000 ____D C:\Users\leon8\AppData\Local\AMD
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000020 ___SH C:\Users\leon8\ntuser.ini
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 _SHDL C:\Users\leon8\Modelos
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 _SHDL C:\Users\leon8\Meus Documentos
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 _SHDL C:\Users\leon8\Menu Iniciar
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 _SHDL C:\Users\leon8\Documents\Minhas Músicas
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 _SHDL C:\Users\leon8\Documents\Minhas Imagens
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 _SHDL C:\Users\leon8\Documents\Meus Vídeos
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 _SHDL C:\Users\leon8\Dados de Aplicativos
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 _SHDL C:\Users\leon8\Configurações Locais
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 _SHDL C:\Users\leon8\AppData\Roaming\Microsoft\Windows\Start Menu\Programas
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 _SHDL C:\Users\leon8\AppData\Local\Histórico
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 _SHDL C:\Users\leon8\AppData\Local\Dados de Aplicativos
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 _SHDL C:\Users\leon8\Ambiente de Rede
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 _SHDL C:\Users\leon8\Ambiente de Impressão
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ___SD C:\Users\leon8\AppData\Roaming\Microsoft\SystemCertificates
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ___SD C:\Users\leon8\AppData\Roaming\Microsoft\Protect
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ___SD C:\Users\leon8\AppData\Roaming\Microsoft\Crypto
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ___SD C:\Users\leon8\AppData\Roaming\Microsoft\Credentials
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ____D C:\Users\leon8\AppData\Roaming\Microsoft\Windows
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ____D C:\Users\leon8\AppData\Roaming\Microsoft\Vault
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ____D C:\Users\leon8\AppData\Roaming\Microsoft\Network
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ____D C:\Users\leon8\AppData\Roaming\Adobe
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ____D C:\Users\leon8\AppData\LocalLow\AMD
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ____D C:\Users\leon8\AppData\Local\VirtualStore
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ____D C:\Users\leon8\AppData\Local\Publishers
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ____D C:\Users\leon8\AppData\Local\Google
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ____D C:\Users\leon8\AppData\Local\D3DSCache
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ____D C:\Users\leon8\AppData\Local\ConnectedDevicesPlatform
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ____D C:\Users\leon8\AppData\Local\ASUS
+2026-06-22 18:43 - 2026-06-22 18:43 - 000000000 ____D C:\Users\leon8
+2026-06-22 18:43 - 2026-06-22 00:00 - 000000000 ____D C:\Users\leon8\AppData\Local\AdvinstAnalytics
+2026-06-22 18:43 - 2025-04-09 16:26 - 000000000 ___RD C:\Users\leon8\OneDrive
+2026-06-22 18:36 - 2026-06-23 20:06 - 000000000 ____D C:\Users\leons\AppData\Local\ElevatedDiagnostics
+2026-06-22 18:07 - 2026-06-22 18:07 - 001132540 _____ C:\Users\leons\Downloads\planialtimetria2_Leon2026.1.pdf
+2026-06-22 18:07 - 2026-06-22 18:07 - 001124092 _____ C:\Users\leons\Downloads\planialtimetria_Leon2026.1.pdf
+2026-06-22 01:45 - 2026-06-22 01:45 - 000000000 ____D C:\Users\Stephane\Documents\Notebooks do OneNote
+2026-06-22 01:45 - 2026-06-22 01:45 - 000000000 ____D C:\Users\Stephane\AppData\Roaming\Microsoft\OneNote
+2026-06-22 01:45 - 2026-06-22 01:45 - 000000000 ____D C:\Users\Stephane\AppData\Roaming\Microsoft\AddIns
+2026-06-22 00:00 - 2026-06-22 00:00 - 000000000 ____D C:\Users\Default\AppData\Local\AdvinstAnalytics
+2026-06-22 00:00 - 2026-06-22 00:00 - 000000000 ____D C:\ProgramData\AW Manager
+2026-06-22 00:00 - 2026-06-22 00:00 - 000000000 ____D C:\Program Files (x86)\AW Manager
+2026-06-21 22:02 - 2026-06-21 22:02 - 000000000 ____D C:\ProgramData\DocsHelper
+2026-06-21 22:01 - 2026-06-22 00:00 - 000004014 _____ C:\Windows\system32\Tasks\AdvancedUpdater
+2026-06-21 22:01 - 2026-06-22 00:00 - 000003992 _____ C:\Windows\system32\Tasks\AdvancedWindowsManager #6
+2026-06-21 22:01 - 2026-06-22 00:00 - 000003992 _____ C:\Windows\system32\Tasks\AdvancedWindowsManager #5
+2026-06-21 22:01 - 2026-06-22 00:00 - 000003992 _____ C:\Windows\system32\Tasks\AdvancedWindowsManager #4
+2026-06-21 22:01 - 2026-06-22 00:00 - 000003992 _____ C:\Windows\system32\Tasks\AdvancedWindowsManager #3
+2026-06-21 22:01 - 2026-06-22 00:00 - 000003992 _____ C:\Windows\system32\Tasks\AdvancedWindowsManager #2
+2026-06-21 22:01 - 2026-06-22 00:00 - 000003992 _____ C:\Windows\system32\Tasks\AdvancedWindowsManager #1
+2026-06-21 22:01 - 2026-06-21 22:01 - 000000000 ____D C:\Users\leons\AppData\Local\AdvinstAnalytics
+2026-06-21 21:58 - 2026-06-21 21:58 - 000000015 _____ C:\Users\leons\AppData\Local\24988cada1efba63
+2026-06-21 21:57 - 2026-06-21 21:57 - 000000000 ____D C:\Users\leons\Desktop\desocupado
+2026-06-21 21:52 - 2026-06-21 21:52 - 000000000 ____D C:\Users\leons\AppData\Roaming\Polyverse
+2026-06-21 21:51 - 2026-06-21 21:55 - 000000000 ____D C:\Users\leons\AppData\Roaming\EaseUS VoiceWave
+2026-06-21 21:51 - 2026-06-21 21:51 - 000000000 ____D C:\Users\Public\EaseUS
+2026-06-21 21:51 - 2026-06-21 21:51 - 000000000 ____D C:\ProgramData\EaseUS
+2026-06-21 21:50 - 2026-06-21 21:50 - 000000000 ____D C:\Program Files (x86)\EaseUS
+2026-06-20 19:48 - 2026-06-20 20:18 - 000000149 _____ C:\Users\leons\Desktop\Novo(a) Documento de Texto.txt
+2026-06-18 16:12 - 2026-06-18 16:12 - 000000000 ____D C:\Users\Stephane\AppData\Local\KADOKAWA
+2026-06-18 12:39 - 2026-06-18 12:39 - 000000000 ____D C:\Users\Stephane\AppData\Local\BYCOMBO4
+2026-06-15 05:49 - 2026-06-15 05:49 - 001006864 _____ (Advanced Micro Devices) C:\Windows\system32\Device.dll
+2026-06-15 05:49 - 2026-06-15 05:49 - 000062736 _____ (Advanced Micro Devices) C:\Windows\system32\Platform.dll
+2026-06-15 05:48 - 2026-06-15 05:48 - 000061832 _____ (Advanced Micro Devices) C:\Windows\system32\AMDRyzenMasterDriver.sys
+2026-06-12 23:20 - 2026-06-23 02:03 - 000000000 ____D C:\Users\Stephane\AppData\Local\User Data
+2026-06-12 23:20 - 2026-06-12 23:20 - 000000000 ____D C:\Users\Stephane\AppData\Local\nwjs
+2026-06-12 22:55 - 2026-06-12 22:55 - 000000000 ____D C:\Users\Stephane\AppData\Roaming\WinRAR
+2026-06-12 22:53 - 2026-06-12 22:53 - 000000000 ____D C:\Users\Stephane\AppData\Local\rmmz-game
+2026-06-12 22:04 - 2026-06-12 22:04 - 000000000 ____D C:\Users\Stephane\AppData\Roaming\VeraCrypt
+2026-06-12 22:02 - 2026-06-13 11:38 - 000000000 ____D C:\Users\leons\AppData\Roaming\VeraCrypt
+2026-06-12 22:02 - 2026-06-12 22:02 - 000000896 _____ C:\Users\Public\Desktop\VeraCrypt.lnk
+2026-06-12 22:02 - 2026-06-12 22:02 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VeraCrypt
+2026-06-12 22:02 - 2026-06-12 22:02 - 000000000 ____D C:\Program Files\VeraCrypt
+2026-06-12 21:56 - 2026-06-12 21:56 - 040832408 _____ (AM Crypto) C:\Users\Stephane\Downloads\VeraCrypt Setup 1.26.29.exe
+2026-06-12 21:52 - 2026-06-13 22:45 - 000002367 _____ C:\Users\Stephane\Desktop\DuckDuckGo.lnk
+2026-06-12 21:52 - 2026-06-12 21:52 - 003063688 _____ (DuckDuckGo Inc) C:\Users\Stephane\Downloads\DuckDuckGo.Installer (1).exe
+2026-06-12 20:23 - 2026-06-12 20:22 - 000481736 _____ (Microsoft Corporation) C:\Windows\system32\gamingservicesproxy_11.dll.0
+2026-06-10 19:39 - 2026-06-10 19:39 - 000000000 ____D C:\Users\leons\AppData\LocalLow\AMD
+2026-06-07 20:46 - 2026-06-07 20:46 - 000002489 _____ C:\Users\Public\Desktop\AMD Privacy View.lnk
+2026-06-07 20:46 - 2026-06-07 20:46 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\AMD
+2026-06-07 20:32 - 2026-06-15 07:08 - 003091752 _____ (Advanced Micro Devices, Inc.) C:\Windows\SysWOW64\AMDBugReportTool.exe
+2026-06-07 20:31 - 2026-05-29 12:59 - 006667280 ____N (Advanced Micro Devices, Inc.) C:\Windows\system32\amd_fidelityfx_dx12.dll
+2026-06-07 19:26 - 2026-06-07 19:26 - 047818496 ____N (Advanced Micro Devices, Inc.) C:\Users\leons\Downloads\amd-software-adrenalin-edition-26.6.1-minimalsetup-260601_web.exe
+2026-06-07 19:26 - 2026-06-07 19:26 - 000000000 ____D C:\Users\leons\AppData\Local\AMDSoftwareInstaller
+2026-06-04 11:36 - 2026-06-04 11:36 - 015195151 _____ C:\Users\leons\Downloads\Slides-20260604T143635Z-3-001.zip
+2026-06-02 20:33 - 2026-05-29 12:58 - 113910280 _____ (Advanced Micro Devices, Inc.) C:\Windows\system32\amd_comgr_3.dll
+2026-06-02 20:33 - 2026-05-29 12:58 - 097327120 _____ (Advanced Micro Devices, Inc.) C:\Windows\SysWOW64\amd_comgr32.dll
+2026-06-02 18:35 - 2026-06-02 18:35 - 000000000 ____D C:\Program Files\Common Files\DESIGNER
+2026-06-01 14:57 - 2026-06-01 14:57 - 000000000 ___HD C:\Program Files\Common Files\EAInstaller
+2026-05-29 16:55 - 2026-05-29 16:55 - 000004484 _____ C:\Users\leons\Downloads\gemini-code-1780084511927.txt
+2026-05-29 16:04 - 2026-05-29 16:04 - 000069530 _____ C:\Users\leons\Downloads\Geoquímica Analítica - NotebookLM.pdf
+2026-05-29 15:45 - 2026-05-29 15:45 - 000000000 ___HD C:\Users\leons\Downloads\.opera
+2026-05-29 15:45 - 2026-05-29 15:45 - 000000000 ___HD C:\Users\leons\.opera
+2026-05-24 15:44 - 2026-05-24 15:44 - 071659442 _____ C:\Users\leons\Downloads\pdfcoffee.com_livro-ambientes-de-sedimentaao-siliciclastica-do-brasil-pdf-free.pdf
+2026-05-24 01:38 - 2026-05-24 01:38 - 003063688 _____ (DuckDuckGo Inc) C:\Users\leons\Downloads\DuckDuckGo.Installer (1).exe
+   0-00-00 32:00 - 2025-07-16 23:39 - 002558301 ____N C:\Windows\Minidump\071625-14218-01.dmp
+
+==================== Um mês (modificados) ==================
+
+(Se uma entrada for incluída na fixlist, o arquivo/pasta será movido.)
+
+2026-06-23 20:31 - 2025-04-08 18:02 - 000000000 ____D C:\Program Files (x86)\Steam
+2026-06-23 20:20 - 2025-04-12 12:27 - 000000000 ____D C:\Users\leons\AppData\Local\Packages
+2026-06-23 20:20 - 2025-04-08 12:15 - 000000000 ____D C:\ProgramData\Packages
+2026-06-23 20:20 - 2021-06-05 09:10 - 000000000 ___HD C:\Program Files\WindowsApps
+2026-06-23 20:20 - 2021-06-05 09:10 - 000000000 ____D C:\Windows\AppReadiness
+2026-06-23 20:20 - 2021-06-05 09:10 - 000000000 ____D C:\ProgramData\regid.1991-06.com.microsoft
+2026-06-23 19:39 - 2025-04-08 12:15 - 001769330 _____ C:\Windows\system32\PerfStringBackup.INI
+2026-06-23 19:39 - 2021-06-05 14:55 - 000766704 _____ C:\Windows\system32\prfh0416.dat
+2026-06-23 19:39 - 2021-06-05 14:55 - 000153898 _____ C:\Windows\system32\prfc0416.dat
+2026-06-23 19:39 - 2021-06-05 09:09 - 000000000 ____D C:\Windows\INF
+2026-06-23 19:38 - 2025-04-15 01:03 - 000003752 _____ C:\Windows\system32\Tasks\AsusSystemAnalysis_754F3273-0563-4F20-B12F-826510B07474
+2026-06-23 19:38 - 2025-04-12 12:28 - 000000000 ____D C:\Users\leons\AppData\Local\D3DSCache
+2026-06-23 19:32 - 2021-06-05 09:01 - 000000000 ____D C:\Windows\CbsTemp
+2026-06-23 19:31 - 2025-04-12 12:27 - 000000000 ____D C:\Users\leons\AppData\Roaming\asus_framework
+2026-06-23 19:31 - 2025-04-08 12:14 - 000000000 ____D C:\Windows\system32\ASUSACCI
+2026-06-23 19:31 - 2025-04-08 12:06 - 000012288 ___SH C:\DumpStack.log.tmp
+2026-06-23 19:31 - 2025-04-08 12:06 - 000000006 ____H C:\Windows\Tasks\SA.DAT
+2026-06-23 19:31 - 2021-06-05 09:10 - 000000000 ____D C:\Windows\SystemTemp
+2026-06-23 19:31 - 2021-06-05 09:01 - 000786432 _____ C:\Windows\system32\config\BBI
+2026-06-23 19:30 - 2021-06-05 09:10 - 000000000 ___RD C:\Windows\ImmersiveControlPanel
+2026-06-23 19:27 - 2025-04-08 12:50 - 000000000 ____D C:\Program Files\WinRAR
+2026-06-23 19:27 - 2021-06-05 09:10 - 000000000 ___RD C:\Windows\PrintDialog
+2026-06-23 18:13 - 2025-04-08 12:24 - 000002245 _____ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk
+2026-06-23 18:13 - 2025-04-08 12:24 - 000002204 _____ C:\Users\Public\Desktop\Google Chrome.lnk
+2026-06-23 14:36 - 2025-06-21 09:57 - 000000000 ____D C:\ProgramData\EA Desktop
+2026-06-23 14:25 - 2025-04-15 23:44 - 000000000 ____D C:\Program Files\AMD
+2026-06-23 14:25 - 2025-04-15 23:44 - 000000000 ____D C:\AMD
+2026-06-23 14:23 - 2025-04-13 11:57 - 000000000 ____D C:\Users\leons\AppData\Local\CrashDumps
+2026-06-23 14:20 - 2025-06-21 09:57 - 000000000 ____D C:\ProgramData\Packer
+2026-06-23 13:06 - 2025-08-10 11:48 - 000004054 _____ C:\Windows\system32\Tasks\AMD Install Manager - Check For Updates
+2026-06-23 02:19 - 2025-04-22 20:31 - 000000000 ____D C:\Users\Stephane\AppData\Roaming\asus_framework
+2026-06-23 02:06 - 2025-04-22 20:32 - 000000000 ____D C:\Users\Stephane\AppData\Local\D3DSCache
+2026-06-23 01:05 - 2025-04-22 20:36 - 000000000 ____D C:\Users\Stephane\AppData\Local\AMD_Common
+2026-06-22 19:52 - 2025-08-10 22:54 - 000000000 ____D C:\Users\leons\AppData\Roaming\Telegram Desktop
+2026-06-22 19:05 - 2025-06-24 18:59 - 000000000 ____D C:\Users\leons\AppData\Roaming\Canva
+2026-06-22 18:43 - 2025-04-08 12:15 - 000000000 __RHD C:\Users\Public\AccountPictures
+2026-06-22 18:26 - 2025-04-22 20:31 - 000000000 ____D C:\Users\Stephane\AppData\Local\CrashDumps
+2026-06-22 18:16 - 2025-04-12 12:33 - 000000000 ____D C:\Users\leons\AppData\Roaming\Microsoft\Word
+2026-06-22 17:25 - 2025-04-12 12:33 - 000000000 ____D C:\Users\leons\AppData\Roaming\Microsoft\Office
+2026-06-22 17:22 - 2025-04-12 12:33 - 000000000 ____D C:\Users\leons\AppData\Roaming\Microsoft\UProof
+2026-06-22 13:52 - 2021-06-05 09:10 - 000000000 ____D C:\Windows\Web
+2026-06-22 12:48 - 2025-04-24 12:35 - 000004526 _____ C:\Windows\system32\Tasks\Opera GX scheduled assistant Autoupdate 1745508917
+2026-06-22 12:48 - 2025-04-12 12:34 - 000004244 _____ C:\Windows\system32\Tasks\Opera GX scheduled Autoupdate 1744472091
+2026-06-22 12:48 - 2025-04-12 12:34 - 000001419 _____ C:\Users\leons\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Navegador Opera GX.lnk
+2026-06-22 12:46 - 2025-04-08 12:06 - 000000000 ____D C:\Windows\system32\SleepStudy
+2026-06-21 22:43 - 2025-08-19 17:54 - 000000000 ____D C:\Users\leons\AppData\Roaming\obs-studio
+2026-06-21 21:59 - 2025-05-17 20:59 - 000000000 ____D C:\Users\leons\AppData\Local\Discord
+2026-06-21 21:56 - 2025-04-14 22:53 - 000000000 ____D C:\Users\leons\AppData\Local\Battle.net
+2026-06-21 03:33 - 2025-04-22 20:31 - 000000000 ____D C:\Users\Stephane\AppData\Local\Packages
+2026-06-21 00:02 - 2025-04-08 12:50 - 000000000 ____D C:\Program Files\Microsoft Office
+2026-06-20 20:19 - 2025-06-24 14:55 - 000000000 ___RD C:\Users\leons\Desktop\UFPE
+2026-06-20 11:15 - 2025-04-09 16:26 - 000000000 ____D C:\Program Files\Microsoft OneDrive
+2026-06-20 03:20 - 2025-04-14 22:54 - 000000000 ____D C:\Program Files (x86)\Overwatch
+2026-06-20 03:20 - 2025-04-14 22:52 - 000000000 ____D C:\Program Files (x86)\Battle.net
+2026-06-20 03:10 - 2025-04-26 20:46 - 000003552 _____ C:\Windows\system32\Tasks\OneDrive Startup Task-S-1-5-21-3997614696-2353931189-2345464812-1005
+2026-06-20 03:10 - 2025-04-22 20:32 - 000003596 _____ C:\Windows\system32\Tasks\OneDrive Reporting Task-S-1-5-21-3997614696-2353931189-2345464812-1005
+2026-06-20 03:10 - 2025-04-21 22:01 - 000003552 _____ C:\Windows\system32\Tasks\OneDrive Startup Task-S-1-5-21-3997614696-2353931189-2345464812-1002
+2026-06-20 03:10 - 2025-04-12 12:28 - 000003596 _____ C:\Windows\system32\Tasks\OneDrive Reporting Task-S-1-5-21-3997614696-2353931189-2345464812-1002
+2026-06-20 03:10 - 2025-04-08 12:54 - 000003194 _____ C:\Windows\system32\Tasks\OneDrive Per-Machine Standalone Update Task
+2026-06-20 03:10 - 2025-04-08 12:54 - 000002023 _____ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\OneDrive.lnk
+2026-06-19 22:22 - 2025-05-13 21:16 - 000002317 _____ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Edge.lnk
+2026-06-19 22:22 - 2025-05-13 21:16 - 000002276 _____ C:\Users\Public\Desktop\Microsoft Edge.lnk
+2026-06-19 22:21 - 2025-05-13 21:16 - 000003210 _____ C:\Windows\system32\Tasks\MicrosoftEdgeUpdateBrowserReplacementTask
+2026-06-19 22:16 - 2025-04-08 12:54 - 000003750 _____ C:\Windows\system32\Tasks\MicrosoftEdgeUpdateTaskMachineUA{89A3F7D4-AADF-484F-ADE0-CA620CD688FA}
+2026-06-19 22:16 - 2025-04-08 12:54 - 000003624 _____ C:\Windows\system32\Tasks\MicrosoftEdgeUpdateTaskMachineCore{4AF83599-DB1B-4029-B4CB-5A9C7EADFAC1}
+2026-06-18 22:12 - 2025-04-15 23:44 - 000000000 ____D C:\Users\leons\AppData\Local\AMD_Common
+2026-06-18 22:11 - 2025-09-01 14:18 - 000002389 _____ C:\Users\leons\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Vivaldi.lnk
+2026-06-18 22:11 - 2025-09-01 14:18 - 000002352 _____ C:\Users\leons\Desktop\Vivaldi.lnk
+2026-06-18 22:11 - 2025-09-01 14:17 - 000000000 ____D C:\Users\leons\AppData\Local\Vivaldi
+2026-06-18 22:05 - 2025-04-22 20:31 - 000000000 ____D C:\Users\Stephane
+2026-06-18 22:04 - 2025-04-14 22:53 - 000000000 ____D C:\Users\leons\AppData\Roaming\Battle.net
+2026-06-18 22:04 - 2025-04-12 12:26 - 000000000 ____D C:\Users\leons
+2026-06-18 22:04 - 2025-04-08 12:14 - 000000000 ____D C:\Users\Cicero
+2026-06-18 22:04 - 2025-04-08 12:14 - 000000000 ____D C:\ProgramData\ASUS
+2026-06-18 22:04 - 2021-06-05 09:10 - 000000000 ___HD C:\Windows\system32\GroupPolicy
+2026-06-18 22:04 - 2021-06-05 09:10 - 000000000 ____D C:\Windows\system32\Sysprep
+2026-06-18 21:51 - 2021-06-05 09:10 - 000000000 ____D C:\Windows\registration
+2026-06-18 21:50 - 2025-04-12 12:26 - 000000000 ____D C:\Users\leons\AppData\Roaming\Microsoft\Windows
+2026-06-18 21:27 - 2025-04-23 22:32 - 000000000 ____D C:\Users\Stephane\AppData\Local\PlaceholderTileLogoFolder
+2026-06-18 12:44 - 2025-04-22 20:31 - 000000000 ____D C:\Users\Stephane\AppData\Roaming\Microsoft\Spelling
+2026-06-14 21:43 - 2025-04-12 12:27 - 000000000 ____D C:\Users\leons\AppData\Local\AMD
+2026-06-12 21:53 - 2026-02-21 00:09 - 000001050 _____ C:\Users\Public\Desktop\Proton VPN.lnk
+2026-06-12 21:53 - 2026-02-21 00:09 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Proton
+2026-06-12 21:52 - 2026-05-03 17:51 - 000000000 ____D C:\Users\Stephane\AppData\Local\comgr
+2026-06-12 20:22 - 2025-04-13 19:26 - 004561352 _____ (Microsoft Corporation) C:\Windows\system32\xgameruntime.dll
+2026-06-12 20:22 - 2025-04-13 19:26 - 001182152 _____ (Microsoft Corporation) C:\Windows\system32\gameplatformservices.dll
+2026-06-12 20:22 - 2025-04-13 19:26 - 000338376 _____ (Microsoft Corporation) C:\Windows\system32\gamelaunchhelper.dll
+2026-06-12 20:22 - 2025-04-13 19:26 - 000268744 _____ (Microsoft Corporation) C:\Windows\system32\gameconfighelper.dll
+2026-06-12 20:22 - 2025-04-13 19:26 - 000166344 _____ (Microsoft Corporation) C:\Windows\system32\gamingtcuihelpers.dll
+2026-06-12 20:22 - 2025-04-13 19:26 - 000158152 _____ (Microsoft Corporation) C:\Windows\system32\xgamehelper.exe
+2026-06-12 20:22 - 2025-04-13 19:26 - 000084424 _____ (Microsoft Corporation) C:\Windows\system32\xgamecontrol.exe
+2026-06-07 20:08 - 2025-10-30 23:23 - 000000000 ____D C:\Users\leons\AppData\Local\comgr
+2026-06-04 21:11 - 2025-09-01 14:18 - 000001054 _____ C:\Users\leons\.vivaldi_reporting_data
+2026-06-03 10:58 - 2025-06-21 09:57 - 000000000 ____D C:\Users\leons\AppData\Local\cache
+2026-06-03 10:04 - 2025-07-28 01:10 - 000000000 ____D C:\Users\leons\AppData\Roaming\CurseForge
+2026-06-01 14:57 - 2025-06-21 09:57 - 000002346 _____ C:\Users\Public\Desktop\EA.lnk
+2026-05-31 18:07 - 2025-06-25 18:57 - 000000000 ____D C:\Users\leons\AppData\Roaming\Microsoft\Excel
+2026-05-25 10:14 - 2026-01-17 21:51 - 000000000 ____D C:\Users\leons\AppData\Roaming\Matribox3
+2026-05-24 01:40 - 2025-04-12 12:26 - 000000000 ____D C:\Users\leons\AppData\Roaming\Microsoft\Spelling
+
+==================== Arquivos na raiz de alguns diretórios ========
+
+2026-06-21 21:58 - 2026-06-21 21:58 - 000000015 _____ () C:\Users\leons\AppData\Local\24988cada1efba63
+2025-07-16 11:50 - 2025-07-16 11:50 - 000007604 _____ () C:\Users\leons\AppData\Local\Resmon.ResmonCfg
+
+==================== SigCheck ============================
+
+(Não há correção automática para arquivos que não passaram na verificação.)
+
+==================== Fim de FRST.txt ========================
