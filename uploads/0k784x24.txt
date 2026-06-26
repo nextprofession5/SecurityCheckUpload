@@ -1,0 +1,90 @@
+SecurityCheck by glax24 & Severnyj v.1.4.0.58 [15.08.24]
+WebSite: www.safezone.cc
+DateLog: 26.06.2026 23:56:26
+Path starting: C:\Users\yashm\AppData\Local\Temp\SecurityCheck\SecurityCheck.exe
+Log directory: C:\SecurityCheck\
+IsAdmin: True
+User: yashm
+VersionXML: 16.27is-24.06.2026
+___________________________________________________________________________
+
+Windows 11 CoreSingleLanguage (x64) Release: 25H2 (10.0.26200.8655) Lang: English(0409)
+Installation date OS: 16.02.2025 10:22:40
+LicenseStatus: Office 16, Office16OneNoteFreeR_Bypass edition The machine is permanently activated.
+LicenseStatus: Windows(R), CoreSingleLanguage edition The machine is permanently activated.
+Boot Mode: Normal
+Default Browser: C:\Program Files\Google\Chrome\Application\chrome.exe
+SystemDrive: C: FS: [NTFS] Capacity: [421.3 Gb] Used: [301.3 Gb] Free: [120 Gb]
+------------------------------- [ Windows ] -------------------------------
+User Account Control [b]enabled[/b] (Level 3)
+Security Center (wscsvc) - The service is running
+Remote Registry (RemoteRegistry) - The service has stopped
+SSDP Discovery (SSDPSRV) - The service is running
+Remote Desktop Services (TermService) - The service has stopped
+Windows Remote Management (WS-Management) (WinRM) - The service has stopped
+Background Intelligent Transfer Service (BITS) - The service has stopped
+Delivery Optimization (DoSvc) - The service is running
+Windows Security Service (SecurityHealthService) - The service is running
+Update Orchestrator Service (UsoSvc) - The service is running
+WaaSMedicSvc (WaaSMedicSvc) - The service has stopped
+Windows Update (wuauserv) - The service has stopped
+System Restore Disable
+---------------------------- [ Antivirus_WMI ] ----------------------------
+Windows Defender (enabled and up to date)
+--------------------------- [ FirewallWindows ] ---------------------------
+Windows Defender Firewall (mpssvc) - The service is running
+--------------------------- [ OtherUtilities ] ----------------------------
+AMD Software v.26.6.2
+Docker Desktop v.4.37.1 [color=red][b]Warning! [url=https://docs.docker.com/desktop/setup/install/windows-install/]Download Update[/url][/b][/color]
+Git v.2.43.0 [color=red][b]Warning! [url=https://git-scm.com/downloads/win]Download Update[/url][/b][/color]
+Microsoft Office Home and Student 2021 - en-us v.16.0.20026.20182
+HWiNFO64 v.8.04 [color=red][b]Warning! [url=https://www.hwinfo.com/download/]Download Update[/url][/b][/color]
+SumatraPDF v.3.6.1
+XAMPP v.8.2.12-0
+Node.js v.20.12.2 [color=red][b]Warning! [url=https://nodejs.org/dist/v26.3.1/node-v26.3.1-x64.msi]Download Update[/url][/b][/color]
+NVIDIA App 11.0.7.247 v.11.0.7.247
+FileZilla 3.69.5 v.3.69.5 [color=red][b]Warning! [url=https://filezilla-project.org/download.php?show_all=1]Download Update[/url][/b][/color]
+Microsoft Edge WebView2 Runtime v.149.0.4022.96 [b][+][/b]
+Npcap v.1.80 [color=red][b]Warning! [url=https://npcap.com/#download]Download Update[/url][/b][/color]
+Steam v.2.10.91.91
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211 v.14.44.35211.0 [color=red][b]Warning! [url=https://download.visualstudio.microsoft.com/download/pr/57eef8ae-a341-46c3-b0bc-c041027b54cd/F0BAB33A302B3CDB2E11113760D016F54FD3D2632C65BA7834FAC4F0ABD7F1A3/VC_redist.x86.exe]Download Update[/url][/b][/color]
+Microsoft Visual C++ v14 Redistributable (x64) - 14.50.35719 v.14.50.35719.0 [color=red][b]Warning! [url=https://download.visualstudio.microsoft.com/download/pr/ebdab8e5-1d7b-4d9f-a11b-cbb1720c3b12/843068991DAAA1F73AD9F6239BCE4D0F6A07A51F18C37EA2A867E9BECA71295C/VC_redist.x64.exe]Download Update[/url][/b][/color]
+------------------------------- [ Backup ] --------------------------------
+Microsoft OneDrive v.26.098.0524.0004
+------------------------------ [ ArchAndFM ] ------------------------------
+WinRAR 6.24 (64-bit) v.6.24.0 [color=red][b]Warning! [url=https://www.rarlab.com/download.htm]Download Update[/url][/b][/color]
+---------------------------- [ CodeTextEdit ] -----------------------------
+HxD Hex Editor 2.5 v.2.5
+Microsoft Visual Studio Code v.1.99.3 [color=red][b]Warning! [url=https://code.visualstudio.com/download]Download Update[/url][/b][/color]
+Microsoft Visual Studio Code (User) v.1.126.0
+-------------------------- [ IMAndCollaborate ] ---------------------------
+Discord v.1.0.9241 [color=red][b]Warning! [url=https://stable.dl2.discordapp.net/distro/app/stable/win/x64/1.0.9242/DiscordSetup.exe]Download Update[/url][/b][/color]
+Zoom Workplace v.7.0.5 (38856) [color=red][b]Warning! [url=https://zoom.us/client/7.1.0.41345/ZoomInstallerFull.msi?archType=x64]Download Update[/url][/b][/color]
+---------------------------- [ ProxyAndVPNs ] -----------------------------
+Proton VPN v.4.3.9 [color=red][b]Warning! [url=https://protonvpn.com/download/ProtonVPN_v4.4.1_x64.exe]Download Update[/url][/b][/color]
+Cloudflare WARP v.26.1.150.0 [color=red][b]Warning! [url=https://1111-releases.cloudflareclient.com/windows/Cloudflare_WARP_Release-x64.msi]Download Update[/url][/b][/color]
+--------------------------------- [ P2P ] ---------------------------------
+Free Download Manager v.6.33.2.6656 [color=red][b]Warning! [url=https://files2.freedownloadmanager.org/6/latest/fdm_x64_setup.exe]Download Update[/url][/b][/color]
+-------------------------------- [ Java ] ---------------------------------
+Java(TM) SE Development Kit 21.0.2 (64-bit) v.21.0.2.0 [color=red][b]Warning! [url=https://www.oracle.com/java/technologies/downloads/#jdk26-windows]Download Update[/url][/b][/color]
+[color=blue][b]Uninstall old version and install new one (jdk-26_windows-x64_bin.exe).[/b][/color]
+Java 8 Update 401 (64-bit) v.8.0.4010.10 [color=red][b]Warning! [url=https://www.java.com/en/download/manual.jsp]Download Update[/url][/b][/color]
+[color=blue][b]Uninstall old version and install new one (jre-8u491-windows-x64.exe).[/b][/color]
+-------------------------------- [ Media ] --------------------------------
+PotPlayer-64 bit v.25.03.12.0 [color=red][b]Warning! [url=https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe]Download Update[/url][/b][/color]
+Spotify v.1.2.92.148.g882cc571
+HandBrake 1.10.2 v.1.10.2 [color=red][b]Warning! [url=https://handbrake.fr/downloads.php]Download Update[/url][/b][/color]
+OBS Studio v.31.0.2 [color=red][b]Warning! [url=https://github.com/obsproject/obs-studio/releases/latest]Download Update[/url][/b][/color]
+------------------------------- [ Browser ] -------------------------------
+Mozilla Firefox (x64 en-US) v.152.0.2
+Google Chrome v.149.0.7827.199 [b][+][/b]
+Brave v.149.1.91.178 [b][+][/b]
+Microsoft Edge v.149.0.4022.80
+------------------ [ AntivirusFirewallProcessServices ] -------------------
+Microsoft Defender Core Service (MDCoreSvc) - The service is running
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26050.15-0\MpDefenderCoreService.exe v.4.18.26050.15
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26050.15-0\MsMpEng.exe v.4.18.26050.15
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26050.15-0\NisSrv.exe v.4.18.26050.15
+Microsoft Defender Antivirus Service (WinDefend) - The service is running
+Microsoft Defender Antivirus Network Inspection Service (WdNisSvc) - The service is running
+----------------------------- [ End of Log ] ------------------------------
